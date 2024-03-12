@@ -1,0 +1,3 @@
+To add an avatar to your account, please visit your user profile. You can visit your User Profile by clicking on your name in the upper right corner and selecting "User Profile" from the drop down menu.
+
+Once on your user profile, hover your mouse over the default avatar presented. You will be shown a link to upload your avatar. Click on it and follow the instructions on the screen. If you're avatar is too large, you will be provide with an opportunity to clip the image to fit.

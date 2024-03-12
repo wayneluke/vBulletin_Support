@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "b357e3d3c06428bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec70e9c1b051ea7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d2d8bf536d06f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Release Notes/6.0.3 Updates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2dfa5556f811f93",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bc54cf8a6fa5574",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d076fa77af88904f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#members_area",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4c4410b73ed3fb94",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1549e15f6dcd1edf",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f5d740761f699ebf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9a9563afd2b6c8af",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Release Notes/6.0.3 Updates.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "301764eb51d2f7b9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Release Notes/6.0.3 Updates.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "95ef935e233e9eec",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Release Notes/6.0.3 Updates.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f2d2d8bf536d06f4",
+  "lastOpenFiles": [
+    "Site Builder/Modules.md",
+    "Site Builder/module_list.md",
+    "Reference/About the vBulletin .htaccess.md",
+    "Site Builder/Add Navigation Items.md",
+    "Site Builder/Layouts.md",
+    "Reference/Template Syntax.md",
+    "Configuration/Preserve EXIF Information.md",
+    "Reference/vBulletin Cookies.md",
+    "Tutorial.md",
+    "Untitled.canvas",
+    "Installer/Use Uncompressed Download.md",
+    "2023-12-19.md",
+    "Release Notes/6.0.3 Updates.md",
+    "Reference/Running vBulletin on a Local Server.md",
+    "Site Builder/Export Custom Pages.md",
+    "Reference",
+    "Site Builder/Google Ads.md",
+    "Installer/MD5 SUMS Not Writable.md",
+    "Troubleshooting/Prevent PHP Warnings and Errors.md",
+    "Troubleshooting/Debug Mode by IP.md",
+    "Site Builder/Add Donation Button.md",
+    "Site Builder/Add Footer Navigation Items.md",
+    "Troubleshooting/Browser Developer Tools.md"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "7a595ccab26db605",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c29d06db046f720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aedc1ae1fe33b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Release Notes/6.0.4 Updates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "302695affca5f933",
+    "type": "split",
+    "children": [
+      {
+        "id": "51143a493216b038",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0bc06554b9e0533",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca282a5862283dbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "341e89046eb66a37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80fc5872377e574f",
+    "type": "split",
+    "children": [
+      {
+        "id": "14bbd98d7f8e7502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d49e00c4984ee612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Release Notes/6.0.4 Updates.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1350f58cfe2dee1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Release Notes/6.0.4 Updates.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5129c04b0c1102a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f83b4c58a19eb79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Release Notes/6.0.4 Updates.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0aedc1ae1fe33b28",
+  "lastOpenFiles": [
+    "Backend/AdminCP/Single Sign-On.md",
+    "Frontend/User Help/General/Searching the Site.md",
+    "Frontend/User Help/General/Registration.md",
+    "Frontend/User Help/General/Recover Password.md",
+    "Frontend/User Help/General/Log In & Log Out.md",
+    "Frontend/User Help/General/Discovering Content.md",
+    "Frontend/User Help/General/Cookies.md",
+    "Frontend/User Help/Content/Content Types/How do I create an Event.md",
+    "Frontend/User Help/Content/Content Types",
+    "Frontend/User Help/Content/Content Types/How do I create a Poll.md",
+    "Frontend/User Help/Content/Content Types/How do I share Videos and Links.md",
+    "Frontend/User Help/Content/Content Types/How do I share Photos.md",
+    "Frontend/User Help/Content/Creating Content.md",
+    "Frontend/User Help/Account/What is Reputation?.md",
+    "Frontend/User Help/Account/Using Visitor Messages.md",
+    "Frontend/User Help/Account/Using Private Messages.md",
+    "Frontend/User Help/Account/How do I ignore another member?.md",
+    "Frontend/User Help/Account/What are Subscribers?.md",
+    "Frontend/User Help/Account/How do I manage my notifications?.md",
+    "Frontend/User Help/Account/How do I change my Account Settings.md",
+    "Frontend/User Help/Account/How do I reset my User Profile.md",
+    "Frontend/User Help/Account/How do I manage my privacy?.md",
+    "Frontend/User Help/Account/How do I edit my Post Signature.md",
+    "Frontend/User Help/Account/How do I change my Avatar.md",
+    "Frontend/User Help/Account/How do I customize my Profile.md",
+    "Release Notes/6.0.4 Updates.md",
+    "Developer/Custom CSS.md",
+    "About",
+    "images/edit_site_on.png",
+    "edit_site_on.png",
+    "images/edit_site_off 1.png",
+    "images/page_manager.png",
+    "images/edit_site_off.png",
+    "images",
+    "untitled folder",
+    "site_builder/images",
+    "edit_site_off 1.png",
+    "edit_site_off.png",
+    "site_builder/pages",
+    "site_builder",
+    "page_manager.png",
+    "Frontend/User Help/BBCode",
+    "Frontend/User Help/Photo Albums",
+    "Frontend/User Help/Groups"
+  ]
+}

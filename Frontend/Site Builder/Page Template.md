@@ -1,0 +1,1 @@
+A page template is a combination of the Page Layout and its Modules. Page Templates can be reused.

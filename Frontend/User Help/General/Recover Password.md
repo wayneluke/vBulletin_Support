@@ -1,0 +1,5 @@
+<h2>I forgot my password, what can I do?</h2>
+<p>If you've forgotten you password you can click on the "<a href="./lostpw">Forgot password or user name?</a>" link. It will appear in the "Sign In" box and anytime you enter an incorrect password. You will be taken to a new page where you can enter your registered email address and may need to also answer a human verification challenge to prevent exploitation by automated bots.
+An email will be sent shortly to that email address with final instructions on how to reset your password.</p>
+<p>Since passwords are saved in an encrypted format in the database there is no way to retrieve your actual password, it will be replaced with a new password.</p>
+<p>You must be able to receive emails to your registered email address for this to work. You may need to check your spam filters and folder if you do not see this email in a few minutes.</p>
