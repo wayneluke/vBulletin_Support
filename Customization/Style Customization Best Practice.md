@@ -1,0 +1,14 @@
+- Don't Edit Default Templates
+	- Custom Templates
+	- Template Hooks
+		- Passing Variables
+		- Pulling data from the API
+		- Using Custom APIs
+- Avoid Inline Javascript
+	- Search Engine Tools
+	- Using vb:jsextra
+- Avoid Inline CSS
+	- css_additional.css
+	- Using vb:cssextra
+- Using Font Awesome
+

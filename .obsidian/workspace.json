@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Release Notes/6.0.4 Updates.md",
-                "mode": "source",
-                "source": false
+                "file": "Frontend/Site Builder/More About Pages/Modules.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a46b0ace091935f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Release Notes/6.0.4 Updates.md",
+                "file": "Frontend/Site Builder/More About Pages/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Release Notes/6.0.4 Updates.md",
+                "file": "Frontend/Site Builder/More About Pages/Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Release Notes/6.0.4 Updates.md"
+                "file": "Frontend/Site Builder/More About Pages/Modules.md"
               }
             }
           }
@@ -145,9 +156,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0aedc1ae1fe33b28",
+  "active": "a46b0ace091935f0",
   "lastOpenFiles": [
+    "Frontend/Site Builder/Pages.md",
+    "Frontend/Installer/Installing Security Patch.md",
+    "Frontend/Site Builder/More About Pages",
+    "Database/Backup Command.md",
+    "Frontend/Installer/Installing vBulletin.md",
+    "Frontend/Installer/Upgrading vBulletin.md",
     "Backend/AdminCP/Single Sign-On.md",
+    "Customization/Style Customization Best Practice.md",
+    "Customization/Look and feel.md",
+    "Reference/vBulletin Cookies.md",
+    "Reference/Understanding MySQL's Table Status Output.md",
+    "Reference/Running vBulletin on a Local Server.md",
+    "Reference/About the vBulletin .htaccess.md",
+    "Release Notes/6.0.5 Updates.md",
+    "Release Notes/6.0.4 Updates.md",
     "Frontend/User Help/General/Searching the Site.md",
     "Frontend/User Help/General/Registration.md",
     "Frontend/User Help/General/Recover Password.md",
@@ -161,19 +186,6 @@
     "Frontend/User Help/Content/Content Types/How do I share Photos.md",
     "Frontend/User Help/Content/Creating Content.md",
     "Frontend/User Help/Account/What is Reputation?.md",
-    "Frontend/User Help/Account/Using Visitor Messages.md",
-    "Frontend/User Help/Account/Using Private Messages.md",
-    "Frontend/User Help/Account/How do I ignore another member?.md",
-    "Frontend/User Help/Account/What are Subscribers?.md",
-    "Frontend/User Help/Account/How do I manage my notifications?.md",
-    "Frontend/User Help/Account/How do I change my Account Settings.md",
-    "Frontend/User Help/Account/How do I reset my User Profile.md",
-    "Frontend/User Help/Account/How do I manage my privacy?.md",
-    "Frontend/User Help/Account/How do I edit my Post Signature.md",
-    "Frontend/User Help/Account/How do I change my Avatar.md",
-    "Frontend/User Help/Account/How do I customize my Profile.md",
-    "Release Notes/6.0.4 Updates.md",
-    "Developer/Custom CSS.md",
     "About",
     "images/edit_site_on.png",
     "edit_site_on.png",
@@ -189,7 +201,6 @@
     "site_builder",
     "page_manager.png",
     "Frontend/User Help/BBCode",
-    "Frontend/User Help/Photo Albums",
-    "Frontend/User Help/Groups"
+    "Frontend/User Help/Photo Albums"
   ]
 }
