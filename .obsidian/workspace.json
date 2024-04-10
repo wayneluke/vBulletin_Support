@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Site Builder/More About Pages/Modules.md",
-                "mode": "preview",
+                "file": "Frontend/Site Builder/New Page.md",
+                "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "a46b0ace091935f0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Site Builder/More About Pages/Modules.md",
+                "file": "Frontend/Site Builder/New Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Site Builder/More About Pages/Modules.md",
+                "file": "Frontend/Site Builder/New Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Site Builder/More About Pages/Modules.md"
+                "file": "Frontend/Site Builder/New Page.md"
               }
             }
           }
@@ -156,9 +145,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a46b0ace091935f0",
+  "active": "0aedc1ae1fe33b28",
   "lastOpenFiles": [
+    "Developer/Inline Documentation.md",
+    "Frontend/Site Builder/Site Builder.md",
+    "Frontend/Site Builder/More About Pages/Modules.md",
+    "Database/Schema/Site Builder.md",
+    "Frontend/Site Builder/More About Pages/Layouts.md",
+    "Database/Schema",
+    "Frontend/Site Builder/More About Pages/Page Template.md",
+    "Frontend/Site Builder/New Page.md",
+    "Frontend/Site Builder/Header.md",
+    "Frontend/Site Builder/Edit Page.md",
+    "Frontend/Site Builder/Navigation Bar.md",
+    "Frontend/Site Builder/Footer.md",
+    "Frontend/Site Builder/Quick Setup.md",
     "Frontend/Site Builder/Pages.md",
+    "Frontend/Site Builder/Style.md",
+    "Frontend/7_header.md",
+    "Frontend/Site Builder/More About Pages/Edit Module (Basics).md",
+    "Release Notes/6.0.5 Updates.md",
+    "Frontend/Installer/vBulletin Download Options.md",
     "Frontend/Installer/Installing Security Patch.md",
     "Frontend/Site Builder/More About Pages",
     "Database/Backup Command.md",
@@ -168,24 +175,7 @@
     "Customization/Style Customization Best Practice.md",
     "Customization/Look and feel.md",
     "Reference/vBulletin Cookies.md",
-    "Reference/Understanding MySQL's Table Status Output.md",
-    "Reference/Running vBulletin on a Local Server.md",
-    "Reference/About the vBulletin .htaccess.md",
-    "Release Notes/6.0.5 Updates.md",
-    "Release Notes/6.0.4 Updates.md",
-    "Frontend/User Help/General/Searching the Site.md",
-    "Frontend/User Help/General/Registration.md",
-    "Frontend/User Help/General/Recover Password.md",
-    "Frontend/User Help/General/Log In & Log Out.md",
-    "Frontend/User Help/General/Discovering Content.md",
-    "Frontend/User Help/General/Cookies.md",
-    "Frontend/User Help/Content/Content Types/How do I create an Event.md",
     "Frontend/User Help/Content/Content Types",
-    "Frontend/User Help/Content/Content Types/How do I create a Poll.md",
-    "Frontend/User Help/Content/Content Types/How do I share Videos and Links.md",
-    "Frontend/User Help/Content/Content Types/How do I share Photos.md",
-    "Frontend/User Help/Content/Creating Content.md",
-    "Frontend/User Help/Account/What is Reputation?.md",
     "About",
     "images/edit_site_on.png",
     "edit_site_on.png",
@@ -200,7 +190,6 @@
     "site_builder/pages",
     "site_builder",
     "page_manager.png",
-    "Frontend/User Help/BBCode",
-    "Frontend/User Help/Photo Albums"
+    "Frontend/User Help/BBCode"
   ]
 }

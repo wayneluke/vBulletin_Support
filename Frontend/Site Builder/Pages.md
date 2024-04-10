@@ -26,11 +26,11 @@ This shows a list of all channel (Forums, Article Sections, Blogs, Social Groups
 
 When you create a custom page, a new template is created along with it. When you delete the page, the template isn't deleted automatically because it may have been used multiple times. Any custom page templates that aren't being used by current pages will be listed here. You can clean up your template list by deleting unused templates.
 
-A page is rendered using a [[Page Template]]. This template is comprised of the [[Layout]] and [[Modules]] along with a title and URL.
+A page is rendered using a [[Page Template]]. This template is comprised of the [[Layouts]] and [[Modules]] along with a title and URL.
 
 More Info:
 - [[Add Page]]
 - [[Edit Page]]
 - [[Modules]]
-- [[Layout]]
-- [[Site Builder]]
+- [[Layouts]]
+- [[Frontend/Site Builder/Site Builder]]
