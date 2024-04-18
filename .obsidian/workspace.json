@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Site Builder/New Page.md",
+                "file": "Release Notes/6.0.5 Updates.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Site Builder/New Page.md",
+                "file": "Release Notes/6.0.5 Updates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Site Builder/New Page.md",
+                "file": "Release Notes/6.0.5 Updates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Site Builder/New Page.md"
+                "file": "Release Notes/6.0.5 Updates.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "0aedc1ae1fe33b28",
   "lastOpenFiles": [
+    "Frontend/Site Builder/New Page.md",
     "Developer/Inline Documentation.md",
     "Frontend/Site Builder/Site Builder.md",
     "Frontend/Site Builder/More About Pages/Modules.md",
@@ -154,7 +155,6 @@
     "Frontend/Site Builder/More About Pages/Layouts.md",
     "Database/Schema",
     "Frontend/Site Builder/More About Pages/Page Template.md",
-    "Frontend/Site Builder/New Page.md",
     "Frontend/Site Builder/Header.md",
     "Frontend/Site Builder/Edit Page.md",
     "Frontend/Site Builder/Navigation Bar.md",
