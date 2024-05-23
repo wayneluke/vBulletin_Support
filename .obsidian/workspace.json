@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/AdminCP/Getting Around the AdminCP.md",
+                "file": "Tutorials/Google Ads.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "131f9e74b27acfb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developer/Template Parser Validation.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,14 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/AdminCP/Getting Around the AdminCP.md",
+                "file": "Developer/Template Parser Validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/AdminCP/Getting Around the AdminCP.md",
+                "file": "Developer/Template Parser Validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/AdminCP/Getting Around the AdminCP.md"
+                "file": "Developer/Template Parser Validation.md"
               }
             }
           }
@@ -145,35 +158,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0aedc1ae1fe33b28",
+  "active": "131f9e74b27acfb1",
   "lastOpenFiles": [
-    "Backend/AdminCP/The AdminCP.md",
+    "Developer/vBulletin Functions.md",
+    "Developer/Template Parser Validation.md",
+    "Tutorials/Converting from vBulletin Cloud to Self-Hosted.md",
+    "Reference Map.md",
+    "Tutorials/Google Ads.md",
+    "Tutorials/vbcron.php.md",
+    "Tutorials/Export Custom Pages.md",
+    "Tutorials/Create Custom MD5Sums files.md",
+    "Tutorials/Add Donation Button.md",
+    "Reference/Configuration/Large File Uploads.md",
+    "Reference/Configuration/Uploading Large Images.md",
+    "Reference/Configuration/Preserve EXIF Information.md",
+    "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
+    "Frontend/Site Builder/Site Builder.md",
+    "Frontend/Site Builder/Navigation Bar.md",
+    "Frontend/Site Builder/Header.md",
+    "Frontend/Site Builder/Footer.md",
+    "Troubleshooting/Prevent PHP Warnings and Errors.md",
+    "Backend/AdminCP/Untitled",
+    "Troubleshooting/Advanced Troubleshooting.md",
+    "Troubleshooting/Debug Mode by Lock File.md",
+    "Troubleshooting/Debug Mode by IP.md",
+    "Release Notes/6.0.6 Updates.md",
     "Backend/AdminCP/Getting Around the AdminCP.md",
+    "Backend/AdminCP/The AdminCP.md",
     "Backend/AdminCP/Usergroups Manager.md",
     "Release Notes/6.0.5 Updates.md",
-    "Release Notes/6.0.6 Updates.md",
-    "Reference/Search JSON.md",
-    "Tutorials/Converting from vBulletin Cloud to Self-Hosted.md",
-    "Tutorials/Create Custom MD5Sums files.md",
-    "Reference/About the vBulletin .htaccess.md",
-    "Reference/Running vBulletin on a Local Server.md",
-    "Reference/Understanding MySQL's Table Status Output.md",
-    "Reference/vBulletin Cookies.md",
-    "Tutorials/Google Ads.md",
-    "Release Notes/6.0.3 Updates.md",
-    "Release Notes/6.0.4 Updates.md",
-    "Troubleshooting/Change Database Collations Manually.md",
-    "Configuration/Skip File Integrity Check on Upgrade.md",
-    "Frontend/Site Builder/New Page.md",
-    "Developer/Inline Documentation.md",
-    "Frontend/Site Builder/Site Builder.md",
-    "Frontend/Site Builder/More About Pages/Modules.md",
-    "Database/Schema/Site Builder.md",
-    "Frontend/Site Builder/More About Pages/Layouts.md",
     "Database/Schema",
-    "Frontend/Site Builder/More About Pages/Page Template.md",
-    "Frontend/Site Builder/Header.md",
-    "Frontend/Site Builder/Edit Page.md",
     "Frontend/Site Builder/More About Pages",
     "Frontend/User Help/Content/Content Types",
     "About",
@@ -189,7 +203,6 @@
     "edit_site_off.png",
     "site_builder/pages",
     "site_builder",
-    "page_manager.png",
-    "Frontend/User Help/BBCode"
+    "page_manager.png"
   ]
 }

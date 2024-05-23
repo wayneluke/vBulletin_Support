@@ -1,7 +1,6 @@
 Google usually has several steps for placing ads.  
   
 First they have code that should be in the header of every page. To add this, you will need to log into your AdminCP and go to Settings → Options → Search Engine Tools.  
-  
 On this page, set "Enable Google Verification" to Yes. Place the code they say to put into the header in the text box labeled "Google Verification HTML Tag." If there is already information in this box, add your code after it.  
   
 While the boxes say "Google Verification," they will work for our current purposes as well.  

@@ -14,7 +14,7 @@ If you do not have access to the php.ini file, you can use add these lines in yo
 ~~~
 ini_set('display_errors', 0);  
 ini_set('log_errors',1);  
-ini_set("error_log", "/volumes/secondary/sites/vbulletin/vb6/logs/php_error.log");  
+ini_set("error_log", "/pathtologdirectory/php_error.log");  
 error_reporting(E_ALL & ~E_NOTICE & ~E_WARNING);
 ~~~
 

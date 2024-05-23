@@ -4,11 +4,11 @@ The footer is a list of navigation links that appear at the bottom of the site. 
 
 ## Accessing the Footer Controls.
 
-To add a navigation item to your site, make sure that Site Builder is turned on by clicking the <button class="sb-editsite">Edit Site</button> button in the user menu at the top of the page. Once the Site Builder menu appears, click on the Footer link.
+To add a navigation item to your site, make sure that Site Builder is turned on by clicking the <button>Edit Site</button> button in the user menu at the top of the page. Once the Site Builder menu appears, click on the Footer link.
 
 ## How to add a Footer Link
 
-Click on the Footer link in the menu to open the Footer Editor under the Site Builder Menu. Within the editor, click the <button class="sb-bluebutton">New Navigation Item</button> link. A dialog will appear where you can enter the name of the Navigation Link and the URL of its destination. When you are finished adding items, click the “Save Changes” link, and your page will reload with the changes.
+Click on the Footer link in the menu to open the Footer Editor under the Site Builder Menu. Within the editor, click the <button>New Navigation Item</button> link. A dialog will appear where you can enter the name of the Navigation Link and the URL of its destination. When you are finished adding items, click the “Save Changes” link, and your page will reload with the changes.
 
 1. Click "Edit Site" next to your username on the page linked above.  
 2. Click “Footer”.  
@@ -29,6 +29,7 @@ The Link Attribute field allows you to add custom CSS or Javascript to your link
 
 CSS Example: `class="myclass"`
 Javascript Example:  `onclick="alert('Hey there!')`
+
 ### Footer Link Permissions
 
 If you wish to have the link visible to specific usergroups, then click on the Edit link under Usergroups. Select the groups that should be able to view the link. To have the link appear to all usergroups, do not select any or select "All Usergroups".
