@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Template Parser Validation.md",
-                "mode": "preview",
+                "file": "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developer/Template Parser Validation.md",
+                "file": "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developer/Template Parser Validation.md",
+                "file": "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developer/Template Parser Validation.md"
+                "file": "Reference/Converting from vBulletin Cloud to Self-Hosted.md"
               }
             }
           }
@@ -160,9 +160,15 @@
   },
   "active": "131f9e74b27acfb1",
   "lastOpenFiles": [
+    "Customization/Template Hooks.md",
+    "Customization/Style Customization Best Practice.md",
+    "Customization/Look and feel.md",
+    "Backend/AdminCP/Usergroups Manager.md",
+    "Reference/Moving Servers.md",
+    "Reference/Running vBulletin on a Local Server.md",
+    "Developer/Template Conditional Validation.md",
     "Developer/vBulletin Functions.md",
-    "Developer/Template Parser Validation.md",
-    "Tutorials/Converting from vBulletin Cloud to Self-Hosted.md",
+    "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
     "Reference Map.md",
     "Tutorials/Google Ads.md",
     "Tutorials/vbcron.php.md",
@@ -181,12 +187,6 @@
     "Backend/AdminCP/Untitled",
     "Troubleshooting/Advanced Troubleshooting.md",
     "Troubleshooting/Debug Mode by Lock File.md",
-    "Troubleshooting/Debug Mode by IP.md",
-    "Release Notes/6.0.6 Updates.md",
-    "Backend/AdminCP/Getting Around the AdminCP.md",
-    "Backend/AdminCP/The AdminCP.md",
-    "Backend/AdminCP/Usergroups Manager.md",
-    "Release Notes/6.0.5 Updates.md",
     "Database/Schema",
     "Frontend/Site Builder/More About Pages",
     "Frontend/User Help/Content/Content Types",

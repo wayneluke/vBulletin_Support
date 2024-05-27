@@ -1,4 +1,4 @@
-The general philosophy here is to support a limited subset of PHP logic that is sufficient for most purposes.  
+Template conditionals (`<vb:if>`, `<vb:else>`, `<vb:elseif>`, and `{vb:if}`) allow a lot of power within the vBulletin template system. The general philosophy here is to support a limited subset of PHP logic that is sufficient for most purposes.  
 
 The default behavior is to exclude functionality unless there is a specific reason to include it.  The reason is that there are a lot of complicated expressions allowed within PHP and this makes validation more difficult to validate safety in that complexity.  In many cases there is not much benefit for the kinds of things conditionals are intended to do (string interpolation comes to mind here).  While in the past the if tags was used as a kind of generic “drop to PHP code” feature, this is precisely what this improvement is designed to prevent. 
 
@@ -26,7 +26,9 @@ The default behavior is to exclude functionality unless there is a specific reas
 - Conditions longer than 1024 characters.  The parser wasn’t really intended to handle the text of War and Peace and hadn’t been tested on massive input so this prevents potential DOS issues.  A condition that long is better broken up into multiple tags for readability anyway.
 - Pretty much anything not specifically considered 
 
-## Disallowed variables:
+## Forbidden variables
+
+These variables cannot be accessed by the conditional parser.
 
 - $GLOBALS
 - $_SERVER
