@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
-                "mode": "source",
+                "file": "Developer/vBulletin Markup.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
+                "file": "Developer/vBulletin Markup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
+                "file": "Developer/vBulletin Markup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Converting from vBulletin Cloud to Self-Hosted.md"
+                "file": "Developer/vBulletin Markup.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "131f9e74b27acfb1",
   "lastOpenFiles": [
+    "Developer/vBulletin Functions.md",
+    "Developer/Template Conditional Validation.md",
+    "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
     "Customization/Template Hooks.md",
     "Customization/Style Customization Best Practice.md",
     "Customization/Look and feel.md",
     "Backend/AdminCP/Usergroups Manager.md",
     "Reference/Moving Servers.md",
     "Reference/Running vBulletin on a Local Server.md",
-    "Developer/Template Conditional Validation.md",
-    "Developer/vBulletin Functions.md",
-    "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
     "Reference Map.md",
     "Tutorials/Google Ads.md",
     "Tutorials/vbcron.php.md",
