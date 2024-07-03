@@ -33,4 +33,4 @@ More Info:
 - [[Edit Page]]
 - [[Modules]]
 - [[Layouts]]
-- [[Frontend/Site Builder/Site Builder]]
+- [[Administration/Site Builder/Site Builder]]

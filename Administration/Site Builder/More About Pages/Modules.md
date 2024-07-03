@@ -5,6 +5,8 @@ aliases:
   - module
 ---
 Modules are the blocks and components used to build [[Pages]]. Each modules has a variety of options to control how it operates on a page and who has permission to view it. 
+
+
 ## Display
 
 - [[About Author]]: Used on Article display pages to show the content of the author's biography profile field.

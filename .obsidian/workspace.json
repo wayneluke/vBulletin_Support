@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4c29d06db046f720",
+        "id": "4aec342e8e207697",
         "type": "tabs",
         "children": [
           {
-            "id": "0aedc1ae1fe33b28",
+            "id": "396f830ea4759457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Google Ads.md",
+                "file": "Beginners/Basic HTML.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "131f9e74b27acfb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developer/vBulletin Markup.md",
-                "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developer/vBulletin Markup.md",
+                "file": "Beginners/Basic HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developer/vBulletin Markup.md",
+                "file": "Beginners/Basic HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developer/vBulletin Markup.md"
+                "file": "Beginners/Basic HTML.md"
               }
             }
           }
@@ -158,51 +145,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "131f9e74b27acfb1",
+  "active": "396f830ea4759457",
   "lastOpenFiles": [
-    "Developer/vBulletin Functions.md",
-    "Developer/Template Conditional Validation.md",
-    "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
-    "Customization/Template Hooks.md",
-    "Customization/Style Customization Best Practice.md",
-    "Customization/Look and feel.md",
-    "Backend/AdminCP/Usergroups Manager.md",
-    "Reference/Moving Servers.md",
-    "Reference/Running vBulletin on a Local Server.md",
-    "Reference Map.md",
-    "Tutorials/Google Ads.md",
-    "Tutorials/vbcron.php.md",
-    "Tutorials/Export Custom Pages.md",
-    "Tutorials/Create Custom MD5Sums files.md",
-    "Tutorials/Add Donation Button.md",
-    "Reference/Configuration/Large File Uploads.md",
+    "Troubleshooting/Untitled.md",
+    "Beginners/Basic HTML.md",
+    "Releases/Creating Release Notes..md",
+    "Beginners",
+    "Releases/6.0.6 Updates.md",
     "Reference/Configuration/Uploading Large Images.md",
-    "Reference/Configuration/Preserve EXIF Information.md",
     "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
-    "Frontend/Site Builder/Site Builder.md",
-    "Frontend/Site Builder/Navigation Bar.md",
-    "Frontend/Site Builder/Header.md",
-    "Frontend/Site Builder/Footer.md",
-    "Troubleshooting/Prevent PHP Warnings and Errors.md",
+    "Reference/Configuration/Preserve EXIF Information.md",
+    "Reference/Configuration/Large File Uploads.md",
+    "Reference/Moving Servers.md",
+    "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
+    "Releases/6.1 Suggestions.md",
+    "Releases/6.0.4 Updates.md",
+    "Administration/Content Management/Expiring Topics.md",
+    "Releases/6.0.3 Updates.md",
+    "topic-expiration.png",
+    "Administration/Content Management",
+    "Administration/AdminCP/Custom Node Fields.md",
+    "Administration/Site Builder/More About Pages/Modules/Content/Friends.md",
+    "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Tag Navigation.md",
+    "Administration/Site Builder/More About Pages/Modules/Content",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Tabbed Container.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Forum Home.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Display Template.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Channel Navigation.md",
+    "Administration/Site Builder/More About Pages/Modules/Display/About Author.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic",
+    "Administration/Site Builder/More About Pages/Modules/Display/Video.md",
+    "Administration/Site Builder/More About Pages/Modules/Display",
+    "Administration/Site Builder/More About Pages/Modules/Display/Page Title.md",
+    "Administration/Site Builder/More About Pages/Modules.md",
+    "Administration/Site Builder/More About Pages/Modules",
+    "admin5.png",
+    "admin4.png",
+    "CleanShot 2024-05-29 at 14.47.05.png",
     "Backend/AdminCP/Untitled",
-    "Troubleshooting/Advanced Troubleshooting.md",
-    "Troubleshooting/Debug Mode by Lock File.md",
     "Database/Schema",
-    "Frontend/Site Builder/More About Pages",
+    "Administration/Site Builder/More About Pages",
     "Frontend/User Help/Content/Content Types",
-    "About",
     "images/edit_site_on.png",
     "edit_site_on.png",
     "images/edit_site_off 1.png",
     "images/page_manager.png",
     "images/edit_site_off.png",
-    "images",
-    "untitled folder",
-    "site_builder/images",
-    "edit_site_off 1.png",
-    "edit_site_off.png",
-    "site_builder/pages",
-    "site_builder",
-    "page_manager.png"
+    "edit_site_off 1.png"
   ]
 }

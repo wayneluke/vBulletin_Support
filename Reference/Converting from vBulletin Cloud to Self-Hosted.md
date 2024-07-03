@@ -16,14 +16,20 @@ Use tools.php to update the URL of your site to its new address, if necessary.
 
 ## Administrator Permissions
 
-### Create a Super Admin
+### Create a Super Administrator
 
-- Add your admin user to the Super Admins list in your `/core/includes/config.php` file.
+- Add the numerical ID of your administrator user to the Super Admins list in your `/core/includes/config.php` file.
+- Delete any other user IDs listed here for security.
 - Edit your Admin User Permissions under Usergroups → Adminstrator Permissions. Set all permissions to Yes.
 
 ### Delete ibadmin user
 
-This user was created for technical support reasons on vBulletin Cloud. You can delete them after promoting your own administrator user to Super Admin. To do this log into the AdminCP and then go to Users → Search for Users. Search for ibadmin and select "Delete User" from the Quick Links drop down at the top of the page.
+This user was created for technical support reasons on vBulletin Cloud. You can delete the ibadmin user after promoting your own administrator user to Super Admin. To do this follow these steps:
+
+1. Log into the AdminCP.
+2. Go to Users → Search for Users. 
+3. Search for ibadmin in the username field
+4. Once the account shows select "Delete User" from the Quick Links drop down at the top of the page.
 
 ## Restore external file access.
 

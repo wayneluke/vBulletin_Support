@@ -1,4 +1,4 @@
-You can update your header navigation items with this [[Frontend/Site Builder/Site Builder]] tool.
+You can update your header navigation items with this [[Administration/Site Builder/Site Builder]] tool.
 
 1. Click "Edit Site" next to your username on the page linked above.  
 2. Click "Navigation Bar".  
