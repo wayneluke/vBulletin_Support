@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginners/Basic HTML.md",
+                "file": "Tutorials/Ad After Posts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginners/Basic HTML.md",
+                "file": "Tutorials/Ad After Posts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginners/Basic HTML.md",
+                "file": "Tutorials/Ad After Posts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginners/Basic HTML.md"
+                "file": "Tutorials/Ad After Posts.md"
               }
             }
           }
@@ -147,7 +147,22 @@
   },
   "active": "396f830ea4759457",
   "lastOpenFiles": [
+    "images/ad_after_post.png",
     "Troubleshooting/Untitled.md",
+    "topic-expiration.png",
+    "Reference Map.md",
+    "CleanShot 2024-05-29 at 14.47.05.png",
+    "admin5.png",
+    "admin4.png",
+    "ad_final_result.png",
+    "Tutorials/Ad After Posts.md",
+    "images/ad_initial_results.png",
+    "images/ad_final_results.png",
+    "Tutorials/Google Ads.md",
+    "images/updated _template_for_hook.png",
+    "images/template_hook_intermediate_result.png",
+    "images/add_template_hook.png",
+    "Developer/vBulletin Markup.md",
     "Beginners/Basic HTML.md",
     "Releases/Creating Release Notes..md",
     "Beginners",
@@ -162,7 +177,6 @@
     "Releases/6.0.4 Updates.md",
     "Administration/Content Management/Expiring Topics.md",
     "Releases/6.0.3 Updates.md",
-    "topic-expiration.png",
     "Administration/Content Management",
     "Administration/AdminCP/Custom Node Fields.md",
     "Administration/Site Builder/More About Pages/Modules/Content/Friends.md",
@@ -172,26 +186,12 @@
     "Administration/Site Builder/More About Pages/Modules/Generic/Tabbed Container.md",
     "Administration/Site Builder/More About Pages/Modules/Generic/Forum Home.md",
     "Administration/Site Builder/More About Pages/Modules/Generic/Display Template.md",
-    "Administration/Site Builder/More About Pages/Modules/Generic/Channel Navigation.md",
-    "Administration/Site Builder/More About Pages/Modules/Display/About Author.md",
     "Administration/Site Builder/More About Pages/Modules/Generic",
-    "Administration/Site Builder/More About Pages/Modules/Display/Video.md",
     "Administration/Site Builder/More About Pages/Modules/Display",
-    "Administration/Site Builder/More About Pages/Modules/Display/Page Title.md",
-    "Administration/Site Builder/More About Pages/Modules.md",
     "Administration/Site Builder/More About Pages/Modules",
-    "admin5.png",
-    "admin4.png",
-    "CleanShot 2024-05-29 at 14.47.05.png",
     "Backend/AdminCP/Untitled",
     "Database/Schema",
     "Administration/Site Builder/More About Pages",
-    "Frontend/User Help/Content/Content Types",
-    "images/edit_site_on.png",
-    "edit_site_on.png",
-    "images/edit_site_off 1.png",
-    "images/page_manager.png",
-    "images/edit_site_off.png",
-    "edit_site_off 1.png"
+    "Frontend/User Help/Content/Content Types"
   ]
 }

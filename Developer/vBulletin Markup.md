@@ -1,3 +1,5 @@
+# vBulletin Markup
+
 Introduced in version 4.0 the vBulletin Markup system includes a rich of tags and shortcodes for creating dynamic [[templates]]. The template syntax was designed to retrieve and format information from vBulletin without having to write PHP Code. Used alongside HTML, CSS, and Javascript, it allows a developer to create dynamic experiences within vBulletin. vBulletin's Template Syntax will take into account the user's settings such as chosen Style and Language
 
 When saving your templates, the vBulletin engine will convert the shortcodes/methods and tags into the appropriate PHP code for runtime purposes.
@@ -95,9 +97,8 @@ Format: `{vb:set var, value}`
 
 {vb:data} is used for setting an API class and method return value to the given variable.  It can also be used to get information from your own [[Custom API]] and display the data in a template.
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|**Parameter Position**|**Parameter** **Name**|**Type**|**Required**|**Description**|
+|Parameter Position|Parameter Name|Type|Required|Description|
+| :-------:| :-------- | :--- | :------: | :---------- |
 |1|variable|string|Yes|The name of the variable being assigned|
 |2|controller|string|Yes|The name of the called controller|
 |3|method|string|Yes|The name of the called method|
