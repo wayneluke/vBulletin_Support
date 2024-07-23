@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md",
+                "file": "Troubleshooting/Email issues with upgrades.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md",
+                "file": "Troubleshooting/Email issues with upgrades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md",
+                "file": "Troubleshooting/Email issues with upgrades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md"
+                "file": "Troubleshooting/Email issues with upgrades.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "396f830ea4759457",
   "lastOpenFiles": [
-    "Frontend/Installer/vBulletin Download Options.md",
     "Troubleshooting/Private Messages Hang and Don't Appear.md",
+    "Frontend/Installer/vBulletin Download Options.md",
     "Frontend/Installer/Use Uncompressed Download.md",
     "Frontend/Installer/Upgrading vBulletin.md",
     "Frontend/Installer/Speeding Up Upgrades.md",
@@ -179,7 +179,7 @@
     "Tutorials/Ad After Posts.md",
     "Workzone",
     "images/ad_after_post.png",
-    "Troubleshooting/Untitled.md",
+    "Troubleshooting/Email issues with upgrades.md",
     "images/ad_initial_results.png",
     "images/ad_final_results.png",
     "images/updated _template_for_hook.png",
