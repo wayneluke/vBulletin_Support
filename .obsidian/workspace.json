@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting/Email issues with upgrades.md",
+                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubleshooting/Email issues with upgrades.md",
+                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troubleshooting/Email issues with upgrades.md",
+                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troubleshooting/Email issues with upgrades.md"
+                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "396f830ea4759457",
   "lastOpenFiles": [
+    "Troubleshooting/Email issues with upgrades.md",
     "Troubleshooting/Private Messages Hang and Don't Appear.md",
     "Frontend/Installer/vBulletin Download Options.md",
     "Frontend/Installer/Use Uncompressed Download.md",
@@ -179,7 +180,6 @@
     "Tutorials/Ad After Posts.md",
     "Workzone",
     "images/ad_after_post.png",
-    "Troubleshooting/Email issues with upgrades.md",
     "images/ad_initial_results.png",
     "images/ad_final_results.png",
     "images/updated _template_for_hook.png",
