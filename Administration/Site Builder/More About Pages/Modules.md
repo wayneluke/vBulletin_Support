@@ -1,9 +1,3 @@
----
-aliases:
-  - Widgets
-  - Module
-  - module
----
 Modules are the blocks and components used to build [[Pages]]. Each modules has a variety of options to control how it operates on a page and who has permission to view it. 
 
 

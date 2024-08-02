@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4aec342e8e207697",
+        "id": "f232aeeeacf33a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "396f830ea4759457",
+            "id": "f1acb4417c205780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md",
+                "file": "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md",
+                "file": "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md",
+                "file": "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troubleshooting/Private Messages Hang and Don't Appear.md"
+                "file": "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md"
               }
             }
           }
@@ -145,39 +145,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "396f830ea4759457",
+  "active": "f1acb4417c205780",
   "lastOpenFiles": [
-    "Troubleshooting/Email issues with upgrades.md",
+    "Administration/Site Builder/More About Pages/Modules.md",
+    "Administration/Site Builder/More About Pages/Page Template.md",
+    "Administration/Site Builder/Footer.md",
+    "Administration/AdminCP/User Ranks.md",
+    "Tutorials/Ad After Posts.md",
+    "Developer/Template Conditional Validation.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Display Template.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Tag Navigation.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Tabbed Container.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Forum Home.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Channel Navigation.md",
+    "Administration/Site Builder/More About Pages/Modules/Display/Video.md",
+    "Administration/Site Builder/More About Pages/Modules/Display/Page Title.md",
+    "Administration/Site Builder/More About Pages/Modules/Display/Channel Description.md",
+    "Administration/Site Builder/More About Pages/Modules/Display/Calendar.md",
+    "Administration/Site Builder/More About Pages/Modules/Display/Ad.md",
+    "Administration/Site Builder/More About Pages/Modules/Display/About Author.md",
+    "Administration/Site Builder/More About Pages/Modules/Content/Friends.md",
+    "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
     "Troubleshooting/Private Messages Hang and Don't Appear.md",
+    "Troubleshooting/Email issues with upgrades.md",
     "Frontend/Installer/vBulletin Download Options.md",
     "Frontend/Installer/Use Uncompressed Download.md",
     "Frontend/Installer/Upgrading vBulletin.md",
     "Frontend/Installer/Speeding Up Upgrades.md",
     "Frontend/Installer/Upgrade Steps Time Out.md",
-    "Frontend/Installer/CLI upgrade.md",
-    "command line interface.md",
-    "Frontend/Installer/Install Times Out..md",
     "topic-expiration.png",
-    "Reference Map.md",
     "CleanShot 2024-05-29 at 14.47.05.png",
     "admin5.png",
     "admin4.png",
     "ad_final_result.png",
-    "Releases/Release Process.md",
-    "Releases/Creating Release Notes..md",
-    "Database/Backup Command.md",
-    "Database/Fix date issues in user table.md",
-    "Database/list tables in database.md",
-    "Database/Update Site URL.md",
-    "Database/Schema/Site Builder.md",
-    "Releases/6.0.7 Notes.md",
-    "Developer/Template Conditional Validation.md",
-    "Developer/vBulletin Functions.md",
-    "Developer/Template Hooks.md",
-    "Developer/Extensions.md",
-    "Releases/6.0.6 Updates.md",
-    "Workzone/every tag notes.md",
-    "Tutorials/Ad After Posts.md",
     "Workzone",
     "images/ad_after_post.png",
     "images/ad_initial_results.png",

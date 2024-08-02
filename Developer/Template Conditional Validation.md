@@ -103,3 +103,8 @@ These variables cannot be accessed by the conditional parser.
 - is_member_of
 - is_came_from_search_engine
 - vbdate
+
+
+> Note if your customized templates fail this validation, you can experience errors. The best course of action is to update the conditionals to meet the validation rules. However if you cannot do that at the moment, we have added a config flag to enable older validation rules for now. Add this line to your core/includes/config.php file:  
+  
+> `$config['Misc']['useLegacyConditionals'] = true;`
