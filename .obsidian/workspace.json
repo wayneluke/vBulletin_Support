@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
+                "file": "support_work_log/2024-08-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
+                "file": "support_work_log/2024-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
+                "file": "support_work_log/2024-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md"
+                "file": "support_work_log/2024-08-06.md"
               }
             }
           }
@@ -147,7 +147,10 @@
   },
   "active": "c0bc06554b9e0533",
   "lastOpenFiles": [
-    "_standup",
+    "support_work_log",
+    "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
+    "support_work_log/2024-08-06.md",
+    "support_standup",
     "Administration/Site Builder/More About Pages/Modules.md",
     "Administration/Site Builder/More About Pages/Page Template.md",
     "Administration/Site Builder/Footer.md",
@@ -166,13 +169,11 @@
     "Administration/Site Builder/More About Pages/Modules/Display/Ad.md",
     "Administration/Site Builder/More About Pages/Modules/Display/About Author.md",
     "Administration/Site Builder/More About Pages/Modules/Content/Friends.md",
-    "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
     "Troubleshooting/Private Messages Hang and Don't Appear.md",
     "Troubleshooting/Email issues with upgrades.md",
     "Frontend/Installer/vBulletin Download Options.md",
     "Frontend/Installer/Use Uncompressed Download.md",
     "Frontend/Installer/Upgrading vBulletin.md",
-    "Frontend/Installer/Speeding Up Upgrades.md",
     "topic-expiration.png",
     "CleanShot 2024-05-29 at 14.47.05.png",
     "admin5.png",
@@ -191,7 +192,6 @@
     "Administration/Site Builder/More About Pages/Modules/Display",
     "Administration/Site Builder/More About Pages/Modules",
     "Backend/AdminCP/Untitled",
-    "Database/Schema",
-    "Administration/Site Builder/More About Pages"
+    "Database/Schema"
   ]
 }
