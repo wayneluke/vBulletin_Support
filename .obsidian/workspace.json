@@ -145,8 +145,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1acb4417c205780",
+  "active": "c0bc06554b9e0533",
   "lastOpenFiles": [
+    "_standup",
     "Administration/Site Builder/More About Pages/Modules.md",
     "Administration/Site Builder/More About Pages/Page Template.md",
     "Administration/Site Builder/Footer.md",
@@ -172,7 +173,6 @@
     "Frontend/Installer/Use Uncompressed Download.md",
     "Frontend/Installer/Upgrading vBulletin.md",
     "Frontend/Installer/Speeding Up Upgrades.md",
-    "Frontend/Installer/Upgrade Steps Time Out.md",
     "topic-expiration.png",
     "CleanShot 2024-05-29 at 14.47.05.png",
     "admin5.png",
