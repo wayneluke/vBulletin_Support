@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "support_work_log/2024-08-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f1a4ab74334bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "support_work_log/2024-08-06.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "support_work_log/2024-08-06.md",
+                "file": "support_work_log/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "support_work_log/2024-08-06.md",
+                "file": "support_work_log/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "support_work_log/2024-08-06.md"
+                "file": "support_work_log/2024-08-09.md"
               }
             }
           }
@@ -145,11 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0bc06554b9e0533",
+  "active": "f1acb4417c205780",
   "lastOpenFiles": [
+    "support_work_log/2024-08-08.md",
+    "support_work_log/2024-08-09.md",
+    "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
+    "support_work_log/2024-08-07.md",
+    "support_work_log/2024-08-06.md",
+    "Daily Template.md",
+    "support_standup/2024-08-05.md",
     "support_work_log",
     "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
-    "support_work_log/2024-08-06.md",
     "support_standup",
     "Administration/Site Builder/More About Pages/Modules.md",
     "Administration/Site Builder/More About Pages/Page Template.md",
@@ -169,11 +187,6 @@
     "Administration/Site Builder/More About Pages/Modules/Display/Ad.md",
     "Administration/Site Builder/More About Pages/Modules/Display/About Author.md",
     "Administration/Site Builder/More About Pages/Modules/Content/Friends.md",
-    "Troubleshooting/Private Messages Hang and Don't Appear.md",
-    "Troubleshooting/Email issues with upgrades.md",
-    "Frontend/Installer/vBulletin Download Options.md",
-    "Frontend/Installer/Use Uncompressed Download.md",
-    "Frontend/Installer/Upgrading vBulletin.md",
     "topic-expiration.png",
     "CleanShot 2024-05-29 at 14.47.05.png",
     "admin5.png",
@@ -191,7 +204,6 @@
     "Administration/Site Builder/More About Pages/Modules/Generic",
     "Administration/Site Builder/More About Pages/Modules/Display",
     "Administration/Site Builder/More About Pages/Modules",
-    "Backend/AdminCP/Untitled",
-    "Database/Schema"
+    "Backend/AdminCP/Untitled"
   ]
 }
