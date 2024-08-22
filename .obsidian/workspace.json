@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "support_work_log/2024-08-09.md",
+                "file": "Reference/About the vBulletin .htaccess.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "support_work_log/2024-08-09.md",
+                "file": "Reference/About the vBulletin .htaccess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "support_work_log/2024-08-09.md",
+                "file": "Reference/About the vBulletin .htaccess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "support_work_log/2024-08-09.md"
+                "file": "Reference/About the vBulletin .htaccess.md"
               }
             }
           }
@@ -159,34 +159,36 @@
   },
   "active": "f1acb4417c205780",
   "lastOpenFiles": [
-    "support_work_log/2024-08-08.md",
-    "support_work_log/2024-08-09.md",
-    "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
-    "support_work_log/2024-08-07.md",
-    "support_work_log/2024-08-06.md",
-    "Daily Template.md",
-    "support_standup/2024-08-05.md",
-    "support_work_log",
-    "Administration/Site Builder/More About Pages/Modules/Content/Content Slider.md",
-    "support_standup",
-    "Administration/Site Builder/More About Pages/Modules.md",
-    "Administration/Site Builder/More About Pages/Page Template.md",
-    "Administration/Site Builder/Footer.md",
+    "Reference/vBulletin Related Terms.md",
+    "Reference/vBulletin Cookies.md",
+    "Reference/Running vBulletin on a Local Server.md",
+    "Reference/Search JSON.md",
+    "Reference/Moving Servers.md",
+    "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
+    "Reference/About the vBulletin .htaccess.md",
+    "Server Management/Backing Up Your Database.md",
+    "Server Management/Creating a Database.md",
+    "Server Management/Securing Apache.md",
+    "Administration/AdminCP/Custom Node Fields.md",
+    "Server Management",
+    "Administration/AdminCP/Usergroups Manager.md",
     "Administration/AdminCP/User Ranks.md",
-    "Tutorials/Ad After Posts.md",
-    "Developer/Template Conditional Validation.md",
-    "Administration/Site Builder/More About Pages/Modules/Generic/Display Template.md",
-    "Administration/Site Builder/More About Pages/Modules/Generic/Tag Navigation.md",
-    "Administration/Site Builder/More About Pages/Modules/Generic/Tabbed Container.md",
-    "Administration/Site Builder/More About Pages/Modules/Generic/Forum Home.md",
-    "Administration/Site Builder/More About Pages/Modules/Generic/Channel Navigation.md",
-    "Administration/Site Builder/More About Pages/Modules/Display/Video.md",
-    "Administration/Site Builder/More About Pages/Modules/Display/Page Title.md",
-    "Administration/Site Builder/More About Pages/Modules/Display/Channel Description.md",
-    "Administration/Site Builder/More About Pages/Modules/Display/Calendar.md",
-    "Administration/Site Builder/More About Pages/Modules/Display/Ad.md",
-    "Administration/Site Builder/More About Pages/Modules/Display/About Author.md",
-    "Administration/Site Builder/More About Pages/Modules/Content/Friends.md",
+    "Administration/AdminCP/The AdminCP.md",
+    "Introducing vBulletin/Frequently Asked Questions.md",
+    "Introducing vBulletin/Terminology.md",
+    "Introducing vBulletin/Recommended Software.md",
+    "support_dev_notes/6.0.7 Notes.md",
+    "Introducing vBulletin",
+    "support_work_log/2024-08-16.md",
+    "support_work_log/2024-08-13.md",
+    "support_work_log/2024-08-12.md",
+    "support_standup/2024-08-05.md",
+    "Troubleshooting/Prevent PHP Warnings and Errors.md",
+    "support_work_log/2024-08-09.md",
+    "support_work_log/2024-08-08.md",
+    "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
+    "support_work_log",
+    "support_standup",
     "topic-expiration.png",
     "CleanShot 2024-05-29 at 14.47.05.png",
     "admin5.png",
@@ -202,8 +204,6 @@
     "Administration/Content Management",
     "Administration/Site Builder/More About Pages/Modules/Content",
     "Administration/Site Builder/More About Pages/Modules/Generic",
-    "Administration/Site Builder/More About Pages/Modules/Display",
-    "Administration/Site Builder/More About Pages/Modules",
-    "Backend/AdminCP/Untitled"
+    "Administration/Site Builder/More About Pages/Modules/Display"
   ]
 }

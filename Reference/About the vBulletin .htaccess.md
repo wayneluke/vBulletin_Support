@@ -119,5 +119,3 @@ vBulletin uses this directive for the same purpose as mod_expires but can be use
 ### files_match
 
 This is used to prevent the download of specific files that can contain sensitive data on your server. Generally this is used as a failsafe if you leave a database backup in an inappropriate directory within a vBulletin install.
-
-#reference
