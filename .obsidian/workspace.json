@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/About the vBulletin .htaccess.md",
+                "file": "Database/Schema/Site Builder.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "backup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/About the vBulletin .htaccess.md",
+                "file": "Database/Schema/Site Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/About the vBulletin .htaccess.md",
+                "file": "Database/Schema/Site Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/About the vBulletin .htaccess.md"
+                "file": "Database/Schema/Site Builder.md"
               }
             }
           }
@@ -159,34 +159,34 @@
   },
   "active": "f1acb4417c205780",
   "lastOpenFiles": [
-    "Reference/vBulletin Related Terms.md",
-    "Reference/vBulletin Cookies.md",
-    "Reference/Running vBulletin on a Local Server.md",
-    "Reference/Search JSON.md",
-    "Reference/Moving Servers.md",
-    "Reference/Converting from vBulletin Cloud to Self-Hosted.md",
-    "Reference/About the vBulletin .htaccess.md",
+    "Customization/Template Hooks.md",
+    "Customization/Style Customization Best Practice.md",
+    "Customization/Look and feel.md",
+    "Customization/Customizing Post Info on vB Cloud.md",
+    "Beginners/Basic HTML.md",
     "Server Management/Backing Up Your Database.md",
-    "Server Management/Creating a Database.md",
-    "Server Management/Securing Apache.md",
-    "Administration/AdminCP/Custom Node Fields.md",
-    "Server Management",
-    "Administration/AdminCP/Usergroups Manager.md",
-    "Administration/AdminCP/User Ranks.md",
-    "Administration/AdminCP/The AdminCP.md",
-    "Introducing vBulletin/Frequently Asked Questions.md",
-    "Introducing vBulletin/Terminology.md",
-    "Introducing vBulletin/Recommended Software.md",
-    "support_dev_notes/6.0.7 Notes.md",
-    "Introducing vBulletin",
+    "Workzone/Apache Information Commands.md",
+    "Frontend/Installer/Use Uncompressed Download.md",
+    "Frontend/Installer/vBulletin Download Options.md",
+    "Frontend/Installer/CLI upgrade.md",
+    "support_work_log/2024-09-12.md",
+    "Tutorials/Google Ads.md",
+    "Tutorials/Export Custom Pages.md",
+    "Tutorials/Create Custom MD5Sums files.md",
+    "Tutorials/Using Professional Font Awesome Package.md",
+    "Tutorials/Using Custom Fonts via Google Fonts.md",
+    "Tutorials/Convert DB to UTF8MB4.md",
+    "support_work_log/2024-09-09.md",
+    "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
+    "Frontend/Installer/Upgrade Steps Time Out.md",
+    "Frontend/Installer/Upgrading vBulletin.md",
+    "support_work_log/2024-08-26.md",
     "support_work_log/2024-08-16.md",
     "support_work_log/2024-08-13.md",
     "support_work_log/2024-08-12.md",
-    "support_standup/2024-08-05.md",
-    "Troubleshooting/Prevent PHP Warnings and Errors.md",
-    "support_work_log/2024-08-09.md",
-    "support_work_log/2024-08-08.md",
-    "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
+    "Reference/About the vBulletin .htaccess.md",
+    "Server Management",
+    "Introducing vBulletin",
     "support_work_log",
     "support_standup",
     "topic-expiration.png",
