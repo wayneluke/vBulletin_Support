@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Schema/Site Builder.md",
+                "file": "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Schema/Site Builder.md",
+                "file": "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Schema/Site Builder.md",
+                "file": "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Schema/Site Builder.md"
+                "file": "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md"
               }
             }
           }
@@ -159,6 +159,10 @@
   },
   "active": "f1acb4417c205780",
   "lastOpenFiles": [
+    "Reference/Running vBulletin on a Local Server.md",
+    "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
+    "Database/Schema/Site Builder.md",
+    "Reference/vBulletin Cloud",
     "Customization/Template Hooks.md",
     "Customization/Style Customization Best Practice.md",
     "Customization/Look and feel.md",
@@ -182,9 +186,6 @@
     "Frontend/Installer/Upgrading vBulletin.md",
     "support_work_log/2024-08-26.md",
     "support_work_log/2024-08-16.md",
-    "support_work_log/2024-08-13.md",
-    "support_work_log/2024-08-12.md",
-    "Reference/About the vBulletin .htaccess.md",
     "Server Management",
     "Introducing vBulletin",
     "support_work_log",
@@ -203,7 +204,6 @@
     "Beginners",
     "Administration/Content Management",
     "Administration/Site Builder/More About Pages/Modules/Content",
-    "Administration/Site Builder/More About Pages/Modules/Generic",
-    "Administration/Site Builder/More About Pages/Modules/Display"
+    "Administration/Site Builder/More About Pages/Modules/Generic"
   ]
 }
