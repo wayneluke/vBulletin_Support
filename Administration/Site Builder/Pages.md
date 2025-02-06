@@ -1,7 +1,3 @@
----
-aliases:
-  - Pages
----
  Pages are the basis of the vBulletin front-end and can be controlled within the Site Builder system. There are several types of pages in vBulletin. System, Channel, and Custom Pages. 
 
 ## Page Manager

@@ -1,9 +1,9 @@
 
-vBulletin creates a number of cookies for functional purposes in the software. These default cookies do not track the user or report to a third-party.
+vBulletin creates a number of cookies for functional purposes in the software. These default cookies do not track the user externally or report to other third-parties.
 
 ## User Data Cookies
 
-These cookies track logged in users. They last for the session unless the user selects "Remember Me" on log in. It "Remember Me" is checked, the cookies will last for at least a year and are refreshed with every visit to the site. 
+These cookies track logged in users. They last for the session unless the user selects "Remember Me" on log in. It "Remember Me" is checked, the cookies will last for at least a year and are refreshed with every visit to the site.  
 
 - userid: Userid of Logged in User.
 - password: hash of the user's password.

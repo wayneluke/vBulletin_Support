@@ -29,6 +29,10 @@ Click on the Navigation link in the menu to open the Navigation Editor under the
 - For links leading into your site, Use a relative URL. For example to link to the Articles page, you can use use the URL of `/articles`.
 - If you are linking to a Page within the vBulletin system, you can also tie your link to the route of that Page. All pages will be listed in a drop down provided for this purpose.
 
+### Selecting Existing Pages
+
+Instead of typing in a URL, you can select from a list of all pages that have been created in vBulletin. Simply select the page from the drop down menu under Page. 
+
 ###  Link Attributes
 
 The Link Attribute field allows you to add custom CSS or Javascript to your link. Follows the standard format of an HTML anchor tag. Do not include opening or closing angle brackets (<>) as this may break your site.
@@ -53,3 +57,11 @@ Click on the ‘Navigation’ button. This will open form beneath the menu bar. 
 - To Rearrange items in the menu, click on the item and drag it to its new location.  
 - To delete items, click on the trash can icon.
 
+## Translating your Navigation Links.
+
+In the AdminCP go to Languages & Phrases → Search In Phrases.
+
+1. Set "Search For Text" to `navbar_`
+2. Set "Search In…" to Phrase Variable Name Only.
+3. Find your Navigation Link and click the Edit button.
+4. Place your translation in the Translation box for the appropriate language.

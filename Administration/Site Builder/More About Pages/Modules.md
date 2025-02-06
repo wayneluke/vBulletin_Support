@@ -22,7 +22,7 @@ Modules are the blocks and components used to build [[Pages]]. Each modules has 
 
 ## Content
 
-- [[Content Slider]]: A customized search module to show featured articles in a carousel. The first attached image would be used as the backgound image.
+- [[Content Slider]]: A customized search module to show featured articles in a carousel. The first attached image would be used as the background image.
 - [[Friends]]: Shows your current friends. Used on the provided Community Home Page.
 - [[Search]]: Generic Search module. Allows you to build custom searches to highlight what is important to your site.
 - [[Trending]]: A specialized search to show trending topics. THis is new than a standard new posts search as it is based on how many people interact with a topic in the last 24 hours.

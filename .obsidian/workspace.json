@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f232aeeeacf33a1f",
+        "id": "cac2f8db8c49f427",
         "type": "tabs",
         "children": [
           {
-            "id": "f1acb4417c205780",
+            "id": "0201a8ade406cecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
+                "file": "support_dev_notes/6.1.1 Notes.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f1a4ab74334bdeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "support_work_log/2024-08-06.md",
-                "mode": "source",
-                "source": false
-              }
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "6.1.1 Notes"
             }
           }
         ]
@@ -50,8 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -60,13 +63,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "backup",
+                "query": "query",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -92,32 +99,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d49e00c4984ee612",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "f1350f58cfe2dee1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
+                "file": "Developer/Mobile API/Login - Logout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Login - Logout"
             }
           },
           {
@@ -128,7 +120,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,15 +131,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md"
-              }
+                "file": "About/Channels.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Channels"
+            }
+          },
+          {
+            "id": "6326a2eff5308fea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Administration/Site Builder/More About Pages/Modules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Modules"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,53 +173,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1acb4417c205780",
+  "active": "0201a8ade406cecd",
   "lastOpenFiles": [
-    "Reference/Running vBulletin on a Local Server.md",
-    "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
-    "Database/Schema/Site Builder.md",
-    "Reference/vBulletin Cloud",
-    "Customization/Template Hooks.md",
-    "Customization/Style Customization Best Practice.md",
-    "Customization/Look and feel.md",
-    "Customization/Customizing Post Info on vB Cloud.md",
-    "Beginners/Basic HTML.md",
-    "Server Management/Backing Up Your Database.md",
-    "Workzone/Apache Information Commands.md",
-    "Frontend/Installer/Use Uncompressed Download.md",
-    "Frontend/Installer/vBulletin Download Options.md",
-    "Frontend/Installer/CLI upgrade.md",
-    "support_work_log/2024-09-12.md",
-    "Tutorials/Google Ads.md",
-    "Tutorials/Export Custom Pages.md",
-    "Tutorials/Create Custom MD5Sums files.md",
-    "Tutorials/Using Professional Font Awesome Package.md",
-    "Tutorials/Using Custom Fonts via Google Fonts.md",
-    "Tutorials/Convert DB to UTF8MB4.md",
-    "support_work_log/2024-09-09.md",
-    "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
-    "Frontend/Installer/Upgrade Steps Time Out.md",
-    "Frontend/Installer/Upgrading vBulletin.md",
-    "support_work_log/2024-08-26.md",
-    "support_work_log/2024-08-16.md",
-    "Server Management",
-    "Introducing vBulletin",
+    "support_dev_notes/6.1.X Suggestions.md",
+    "support_dev_notes/6.1.1 Notes.md",
+    "support_work_log/2025-01-30.md",
+    "Customization/Add Share to Bluesky.md",
+    "Links.md",
     "support_work_log",
-    "support_standup",
+    "Reference/Using Adsense.md",
+    "Reference/Using the CDN URL Option.md",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/CleanShot 2025-01-22 at 11.27.50.png",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/CleanShot 2025-01-22 at 11.26.13.png",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian",
+    "Users/wayneluke/Library/Mobile Documents",
+    "Users/wayneluke/Library",
+    "Users/wayneluke",
+    "Users",
+    "Reference/Permission numbers.md",
+    "Troubleshooting/Change Database Collations Manually.md",
+    "Reference/Related Topics (Download).md",
+    "Reference/vBulletin Related Terms.md",
+    "Reference/vBulletin Cookies.md",
+    "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
+    "Support Management/Deleted Canned Responses/Import to vB5.md",
+    "Support Management/Deleted Canned Responses/Import Problems - Members Not In Memberlist.md",
+    "Support Management/Deleted Canned Responses/Graphics Development Kit.md",
+    "Support Management/Deleted Canned Responses/Site Hacked Requests.md",
+    "Support Management/Deleted Canned Responses/How to Secure your Site (vb4).md",
+    "Support Management/Deleted Canned Responses/Affiliate Program.md",
+    "support_dev_notes/Creating Release Notes..md",
+    "Support Management/Deleted Canned Responses/A Testimonials Page Link (after solving prob).md",
+    "Support Management/Deleted Canned Responses",
+    "support_dev_notes/Release Process.md",
+    "support_dev_notes/Building phpDocs.md",
+    "support_dev_notes/6.0.7 Notes.md",
+    "support_dev_notes/6.0.3 Updates.md",
+    "Administration/Site Builder/More About Pages/Modules/Generic/Forum Home.md",
     "topic-expiration.png",
     "CleanShot 2024-05-29 at 14.47.05.png",
     "admin5.png",
     "admin4.png",
     "ad_final_result.png",
-    "Workzone",
     "images/ad_after_post.png",
     "images/ad_initial_results.png",
-    "images/ad_final_results.png",
-    "images/updated _template_for_hook.png",
-    "images/template_hook_intermediate_result.png",
-    "Beginners",
-    "Administration/Content Management",
-    "Administration/Site Builder/More About Pages/Modules/Content",
-    "Administration/Site Builder/More About Pages/Modules/Generic"
+    "images/ad_final_results.png"
   ]
 }

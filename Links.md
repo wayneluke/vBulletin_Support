@@ -1,0 +1,6 @@
+- [url="https://forum.vbulletin.com/articles/managing-vbulletin/4425006-vbulletin-5-database-tools"]Database Tools[/url]
+- [url="https://forum.vbulletin.com/node/4387853">Minimum Requirements[/url]
+- [url="https://tracker.vbulletin.com"]Tracker[/url]
+- [url="https://www.vbulletin.com/go/vb5debug"]Debug Mode[/url]
+- Please submit a [url="https://www.vbulletin.com/go/techsupport"]Support Ticket[/url].
+- [URL="https://forum.vbulletin.com/articles/managing-vbulletin/4401433-using-tools-php"]tools.php[/URL]
