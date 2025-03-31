@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Management/Securing Apache.md",
+                "file": "Troubleshooting/A System Error has occurred.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Securing Apache"
-            }
-          },
-          {
-            "id": "4a86c13d7f05b94e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/Block bots via .htaccess.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Block bots via .htaccess"
+              "title": "A System Error has occurred"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +173,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a86c13d7f05b94e",
+  "active": "0201a8ade406cecd",
   "lastOpenFiles": [
+    "Server Management/Running vBulletin on a Local Server.md",
+    "Server Management/Server Configuration/Untitled.md",
+    "Reference/Moving Servers.md",
+    "Reference/Permission numbers.md",
+    "Server Management/Block bots via .htaccess.md",
+    "Reference/vBulletin Configuration/Untitled 2.md",
+    "Reference/vBulletin Configuration/Untitled 1.md",
+    "Reference/vBulletin Configuration/Untitled.md",
+    "Reference/vBulletin Configuration/Uploading Large Images.md",
+    "Server Management/Server Configuration",
+    "Reference/vBulletin Configuration/Skip File Integrity Check on Upgrade.md",
+    "Reference/vBulletin Configuration/Preserve EXIF Information.md",
+    "Server Management/PHP Addhandlers for cPanel.md",
+    "Reference/vBulletin Configuration/Large File Uploads.md",
     "Untitled 1.md",
-    "Reference/Block bots via .htaccess.md",
     "Untitled.md",
     "Troubleshooting/Advanced Troubleshooting.md",
     "Links.md",
@@ -220,23 +208,10 @@
     "images/sitebuilder_editpage.png",
     "images/sitebuilder_newpage.png",
     "images/CleanShot 2025-03-24 at 13.08.23@2x.png",
-    "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
     "Reference/Understanding MySQL's Table Status Output.md",
     "Reference/Database Tools.md",
     "Frontend/Installer/Upgrading vBulletin.md",
     "Frontend/Installer/CLI upgrade.md",
-    "Reference/Running vBulletin on a Local Server.md",
-    "Server Management/Creating a Database.md",
-    "Server Management/Backing Up Your Database.md",
-    "Troubleshooting/PHP Memory Limit.md",
-    "Troubleshooting/MySQL Gone Away.md",
-    "Troubleshooting/Email issues with upgrades.md",
-    "Troubleshooting/Debug Mode by IP.md",
-    "Troubleshooting/Change Database Collations Manually.md",
-    "Troubleshooting/Browser Developer Tools.md",
-    "Troubleshooting/A Serious Error has occurred.md",
-    "Troubleshooting/Rebuild Video BB Codes.md",
-    "Reference/Untitled",
     "support_work_log",
     "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images",
     "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support",
