@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "support_dev_notes/6.1.1 Notes.md",
+                "file": "Server Management/Securing Apache.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6.1.1 Notes"
+              "title": "Securing Apache"
+            }
+          },
+          {
+            "id": "4a86c13d7f05b94e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Block bots via .htaccess.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Block bots via .htaccess"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "query",
+                "query": "error",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,18 +198,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0201a8ade406cecd",
+  "active": "4a86c13d7f05b94e",
   "lastOpenFiles": [
-    "support_dev_notes/6.1.X Suggestions.md",
-    "support_dev_notes/6.1.1 Notes.md",
-    "support_work_log/2025-01-30.md",
-    "Customization/Add Share to Bluesky.md",
+    "Untitled 1.md",
+    "Reference/Block bots via .htaccess.md",
+    "Untitled.md",
+    "Troubleshooting/Advanced Troubleshooting.md",
     "Links.md",
+    "Administration/Site Builder/Footer.md",
+    "Administration/Site Builder/Edit Page.md",
+    "Administration/Site Builder/New Page.md",
+    "images/sitebuilder_new_page_save.png",
+    "images/sitebuilder_editpage_save.png",
+    "images/sitebuilder_editpage_modules.png",
+    "images/sitebuilder_editpage_layout.png",
+    "images/sitebuilder_editpage_template.png",
+    "Administration/Site Builder/Site Builder.md",
+    "Administration/Site Builder/Turn on Site Builder.md",
+    "images/sitebuilder_on.png",
+    "images/sitebuilder_off.png",
+    "images/sitebuilder_editpage.png",
+    "images/sitebuilder_newpage.png",
+    "images/CleanShot 2025-03-24 at 13.08.23@2x.png",
+    "Reference/Configuration/Skip File Integrity Check on Upgrade.md",
+    "Reference/Understanding MySQL's Table Status Output.md",
+    "Reference/Database Tools.md",
+    "Frontend/Installer/Upgrading vBulletin.md",
+    "Frontend/Installer/CLI upgrade.md",
+    "Reference/Running vBulletin on a Local Server.md",
+    "Server Management/Creating a Database.md",
+    "Server Management/Backing Up Your Database.md",
+    "Troubleshooting/PHP Memory Limit.md",
+    "Troubleshooting/MySQL Gone Away.md",
+    "Troubleshooting/Email issues with upgrades.md",
+    "Troubleshooting/Debug Mode by IP.md",
+    "Troubleshooting/Change Database Collations Manually.md",
+    "Troubleshooting/Browser Developer Tools.md",
+    "Troubleshooting/A Serious Error has occurred.md",
+    "Troubleshooting/Rebuild Video BB Codes.md",
+    "Reference/Untitled",
     "support_work_log",
-    "Reference/Using Adsense.md",
-    "Reference/Using the CDN URL Option.md",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/CleanShot 2025-01-22 at 11.27.50.png",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/CleanShot 2025-01-22 at 11.26.13.png",
     "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images",
     "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support",
     "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents",
@@ -192,34 +245,6 @@
     "Users/wayneluke/Library/Mobile Documents",
     "Users/wayneluke/Library",
     "Users/wayneluke",
-    "Users",
-    "Reference/Permission numbers.md",
-    "Troubleshooting/Change Database Collations Manually.md",
-    "Reference/Related Topics (Download).md",
-    "Reference/vBulletin Related Terms.md",
-    "Reference/vBulletin Cookies.md",
-    "Reference/vBulletin Cloud/Managing Redirects with Cloudflare.md",
-    "Support Management/Deleted Canned Responses/Import to vB5.md",
-    "Support Management/Deleted Canned Responses/Import Problems - Members Not In Memberlist.md",
-    "Support Management/Deleted Canned Responses/Graphics Development Kit.md",
-    "Support Management/Deleted Canned Responses/Site Hacked Requests.md",
-    "Support Management/Deleted Canned Responses/How to Secure your Site (vb4).md",
-    "Support Management/Deleted Canned Responses/Affiliate Program.md",
-    "support_dev_notes/Creating Release Notes..md",
-    "Support Management/Deleted Canned Responses/A Testimonials Page Link (after solving prob).md",
-    "Support Management/Deleted Canned Responses",
-    "support_dev_notes/Release Process.md",
-    "support_dev_notes/Building phpDocs.md",
-    "support_dev_notes/6.0.7 Notes.md",
-    "support_dev_notes/6.0.3 Updates.md",
-    "Administration/Site Builder/More About Pages/Modules/Generic/Forum Home.md",
-    "topic-expiration.png",
-    "CleanShot 2024-05-29 at 14.47.05.png",
-    "admin5.png",
-    "admin4.png",
-    "ad_final_result.png",
-    "images/ad_after_post.png",
-    "images/ad_initial_results.png",
-    "images/ad_final_results.png"
+    "Users"
   ]
 }

@@ -12,6 +12,16 @@ On most browsers, you can access your developer tools by pressing F12 or fn+F12.
 [Apple Safari Developer Tools](https://developer.apple.com/safari/tools/)
 - [iOS and iPadOS Developer Tools](https://developer.apple.com/documentation/safari-developer-tools/inspecting-ios)
 
+## Important Tools
+
+### Console
+
+The Console tab will show you any Javascript errors. Providing Javascript errors can tell support if you have out-of-date files, conflicting javascript and other issues.
+
+### Network
+
+
+
 #troubleshooting #browser-tools
 
 

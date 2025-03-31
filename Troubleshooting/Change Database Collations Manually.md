@@ -1,4 +1,4 @@
-Use these queries with extreme caution. They may break data in the fields.
+> Note, this procedure is not recommended. Instead, you should use the [[database tools}} provided in your download package.Use these queries with extreme caution. They may break data in the fields.
 
 ## Fields
 

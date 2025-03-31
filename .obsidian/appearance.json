@@ -1,10 +1,10 @@
 {
-  "accentColor": "#783bb5",
+  "accentColor": "#3b63b5",
   "baseFontSize": 16,
   "interfaceFontFamily": "FantasqueSansM Nerd Font",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "textFontFamily": "Hiragino Sans",
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Things",
   "translucency": true,
   "baseFontSizeAction": true
 }

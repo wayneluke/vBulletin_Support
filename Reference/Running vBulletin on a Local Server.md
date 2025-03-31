@@ -7,12 +7,17 @@ If you are unfamiliar with configuring a web environment then XAMPP is probably 
 
 ## Installing the Individual Components
 
+> Note: It is impossible for use to cover every aspect of installing this software on every Operating System. This is meant to be a basic guideline. If you need additional help with your Operating System, please use your favorite search engine or install XAMPP.
+
 ### Install Apache Web Server
 
 Ensure that you have Apache Web Server installed on your system. If not, you can install it using package managers like apt (for Debian/Ubuntu), yum (for CentOS/RHEL), brew (MacOS) or any other appropriate method for your operating system.
 
 ```bash
-brew install apache 
+sudo apt install apache2 #Linux Distros supporting Apt
+sudo yum install httpd #Linux Distros support yum
+brew install apache #MacOS with Homebrew
+winget install -e --id Apache.DirectoryStudio # Windows via winget
 ```
 
 ### Install MariaDB
@@ -52,7 +57,7 @@ brew install php                          # Install via Homebrew
 After installing PHP in Ubuntu, enable the PHP module in Apache using the following command:
 
 ```bash
-sudo a2enmod php
+sudo a2enmod php #Ubunut variants
 ``` 
 
 Note: Homebrew enables PHP automatically.
