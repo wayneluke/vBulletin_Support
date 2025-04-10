@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting/A System Error has occurred.md",
+                "file": "support_dev_notes/6.1.2 Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A System Error has occurred"
+              "title": "6.1.2 Notes"
             }
           }
         ]
@@ -175,6 +175,10 @@
   },
   "active": "0201a8ade406cecd",
   "lastOpenFiles": [
+    "Reference/crontab timing.md",
+    "About/Channels.md",
+    "Untitled.canvas",
+    "Troubleshooting/A System Error has occurred.md",
     "Server Management/Running vBulletin on a Local Server.md",
     "Server Management/Server Configuration/Untitled.md",
     "Reference/Moving Servers.md",
@@ -209,9 +213,6 @@
     "images/sitebuilder_newpage.png",
     "images/CleanShot 2025-03-24 at 13.08.23@2x.png",
     "Reference/Understanding MySQL's Table Status Output.md",
-    "Reference/Database Tools.md",
-    "Frontend/Installer/Upgrading vBulletin.md",
-    "Frontend/Installer/CLI upgrade.md",
     "support_work_log",
     "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images",
     "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support",
