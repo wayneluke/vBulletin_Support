@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "support_dev_notes/6.1.2 Notes.md",
+                "file": "Links.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6.1.2 Notes"
+              "title": "Links"
+            }
+          },
+          {
+            "id": "c11084368dca1929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Schema/user record.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "user record"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "error",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +198,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0201a8ade406cecd",
+  "active": "c11084368dca1929",
   "lastOpenFiles": [
+    "Database/Schema/Site Builder.md",
+    "Database/Schema/user record.md",
+    "Server Management/Securing Apache.md",
+    "admin4.png",
+    "admin5.png",
+    "Debugging iPhone or iPad.md",
+    "Links.md",
+    "Cloud Support/Support Tools/3. Forum Account and Details.md",
+    "Cloud Support/Migrations",
+    "Cloud Support/Support Tools/2. Main Screen.md",
+    "Cloud Support/Support Tools/1. Login.md",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/CleanShot 2025-04-10 at 13.26.51@2x.png",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/vbcloud_main_screen.png",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/CleanShot 2025-04-10 at 13.08.33@2x.png",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian",
+    "Users/wayneluke/Library/Mobile Documents",
+    "Users/wayneluke/Library",
+    "Users/wayneluke",
+    "Users",
+    "Cloud Support/Migrations/FTPS.md",
+    "Cloud Support/Untitled.md",
+    "Cloud Support/Support Tools",
+    "Cloud Support/Migrations/PHPBB and Xenforo Migrations.md",
+    "Workzone/every tag notes.md",
+    "Workzone/Apache Information Commands.md",
+    "support_dev_notes/6.1.2 Notes.md",
     "Reference/crontab timing.md",
     "About/Channels.md",
     "Untitled.canvas",
@@ -188,39 +242,10 @@
     "Reference/vBulletin Configuration/Untitled 1.md",
     "Reference/vBulletin Configuration/Untitled.md",
     "Reference/vBulletin Configuration/Uploading Large Images.md",
-    "Server Management/Server Configuration",
-    "Reference/vBulletin Configuration/Skip File Integrity Check on Upgrade.md",
-    "Reference/vBulletin Configuration/Preserve EXIF Information.md",
-    "Server Management/PHP Addhandlers for cPanel.md",
-    "Reference/vBulletin Configuration/Large File Uploads.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Troubleshooting/Advanced Troubleshooting.md",
-    "Links.md",
-    "Administration/Site Builder/Footer.md",
-    "Administration/Site Builder/Edit Page.md",
-    "Administration/Site Builder/New Page.md",
     "images/sitebuilder_new_page_save.png",
     "images/sitebuilder_editpage_save.png",
     "images/sitebuilder_editpage_modules.png",
     "images/sitebuilder_editpage_layout.png",
-    "images/sitebuilder_editpage_template.png",
-    "Administration/Site Builder/Site Builder.md",
-    "Administration/Site Builder/Turn on Site Builder.md",
-    "images/sitebuilder_on.png",
-    "images/sitebuilder_off.png",
-    "images/sitebuilder_editpage.png",
-    "images/sitebuilder_newpage.png",
-    "images/CleanShot 2025-03-24 at 13.08.23@2x.png",
-    "Reference/Understanding MySQL's Table Status Output.md",
-    "support_work_log",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian",
-    "Users/wayneluke/Library/Mobile Documents",
-    "Users/wayneluke/Library",
-    "Users/wayneluke",
-    "Users"
+    "images/sitebuilder_editpage_template.png"
   ]
 }
