@@ -4,7 +4,8 @@
   "interfaceFontFamily": "FantasqueSansM Nerd Font",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "textFontFamily": "Hiragino Sans",
-  "cssTheme": "",
+  "cssTheme": "Blue Topaz",
   "translucency": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "system"
 }
