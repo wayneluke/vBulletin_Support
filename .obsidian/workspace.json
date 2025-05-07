@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Support/Cloud Support Tools/2. Basic Actions.md",
+                "file": "support_dev_notes/Onboarding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Basic Actions"
+              "title": "Onboarding"
             }
           }
         ],
@@ -231,8 +231,9 @@
   },
   "active": "5849e5a9c5dbf1da",
   "lastOpenFiles": [
-    "Tech Support/Cloud Support Tools/1. Forum Info.md",
     "Tech Support/Cloud Support Tools/2. Basic Actions.md",
+    "support_dev_notes/Onboarding.md",
+    "Tech Support/Cloud Support Tools/1. Forum Info.md",
     "images/cloud_tools_basic_actions.png",
     "images/cloud_tools_advanced_tools.png",
     "images/cloud_tool_db_tools.png",
@@ -273,7 +274,6 @@
     "Troubleshooting/PHP Memory Limit.md",
     "Troubleshooting/MySQL Gone Away.md",
     "Troubleshooting/Email issues with upgrades.md",
-    "Troubleshooting/Debug Mode by Lock File.md",
     "Release Notes",
     "admin4.png",
     "admin5.png",
