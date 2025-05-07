@@ -14,6 +14,7 @@ These cookies track logged in users. They last for the session unless the user s
 
 These cookies help with the functionality of vBulletin. 
 
+- content_list_perpage: How many nodes to show per page if set by the user.
 - np_notices_displayed: Keeps track of notices to display to the client.
 - sitebuilder_active: Administrators only. Designates whether Site Builder is active.
 - lastactivity: Time of the last activity. 

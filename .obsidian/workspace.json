@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Schema/user record.md",
+                "file": "support_dev_notes/Modernize vBulletin..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "user record"
+              "title": "Modernize vBulletin."
+            }
+          },
+          {
+            "id": "5849e5a9c5dbf1da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Support/Cloud Support Tools/2. Basic Actions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2. Basic Actions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wordpress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developer/Mobile API/Login - Logout.md",
+                "file": "Troubleshooting/A System Error has occurred.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Login - Logout"
+              "title": "Outgoing links from A System Error has occurred"
             }
           },
           {
@@ -144,7 +168,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -156,10 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About/Channels.md"
+                "file": "Troubleshooting/A System Error has occurred.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Channels"
+              "title": "Outline of A System Error has occurred"
             }
           },
           {
@@ -168,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administration/Site Builder/More About Pages/Modules.md",
+                "file": "Troubleshooting/A System Error has occurred.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +207,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modules"
+              "title": "Backlinks for A System Error has occurred"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,57 +225,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c11084368dca1929",
+  "active": "5849e5a9c5dbf1da",
   "lastOpenFiles": [
-    "Database/Schema/Site Builder.md",
-    "Database/Schema/user record.md",
-    "Server Management/Securing Apache.md",
+    "Tech Support/Cloud Support Tools/1. Forum Info.md",
+    "Tech Support/Cloud Support Tools/2. Basic Actions.md",
+    "images/cloud_tools_basic_actions.png",
+    "images/cloud_tools_advanced_tools.png",
+    "images/cloud_tool_db_tools.png",
+    "images/cloud_tools_site_info.png",
+    "images/cloud_tools_site_fix.png",
+    "images/cloud_tools_forum_info.png",
+    "Reference/Third-party Login/Wordpres.md",
+    "Tutorials/Using.../Wordpress Connect.md",
+    "Tutorials/Using.../Galleries.md",
+    "Tutorials/Using...",
+    "pages/contents.md",
+    "pages",
+    "journals",
+    "logseq/custom.css",
+    "logseq/config.edn",
+    "logseq",
+    "Reference/Third-party Login",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/cloud_tools_forum_info 1.png",
+    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/cloud_tools_forum_info.png",
+    "Troubleshooting/A System Error has occurred.md",
+    "Tech Support/Cloud Support Tools",
+    "Tech Support",
+    "Reference Map.md",
+    "Links.md",
+    "Tutorials/vbevent.php.md",
+    "Tutorials/vbcron.php.md",
+    "Tutorials/Using Professional Font Awesome Package.md",
+    "Tutorials/Using Custom Fonts via Google Fonts.md",
+    "Tutorials/Google Ads.md",
+    "Tutorials/Export Custom Pages.md",
+    "Tutorials/Create Custom MD5Sums files.md",
+    "Tutorials/Convert DB to UTF8MB4.md",
+    "Tutorials/Add page for latest posts.md",
+    "Tutorials/Ad After Posts.md",
+    "Troubleshooting/Rebuild Video BB Codes.md",
+    "Troubleshooting/Private Messages Hang and Don't Appear.md",
+    "Troubleshooting/Prevent PHP Warnings and Errors.md",
+    "Troubleshooting/PHP Memory Limit.md",
+    "Troubleshooting/MySQL Gone Away.md",
+    "Troubleshooting/Email issues with upgrades.md",
+    "Troubleshooting/Debug Mode by Lock File.md",
+    "Release Notes",
     "admin4.png",
     "admin5.png",
-    "Debugging iPhone or iPad.md",
-    "Links.md",
-    "Cloud Support/Support Tools/3. Forum Account and Details.md",
-    "Cloud Support/Migrations",
-    "Cloud Support/Support Tools/2. Main Screen.md",
-    "Cloud Support/Support Tools/1. Login.md",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/CleanShot 2025-04-10 at 13.26.51@2x.png",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/vbcloud_main_screen.png",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/CleanShot 2025-04-10 at 13.08.33@2x.png",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian",
-    "Users/wayneluke/Library/Mobile Documents",
-    "Users/wayneluke/Library",
-    "Users/wayneluke",
-    "Users",
-    "Cloud Support/Migrations/FTPS.md",
-    "Cloud Support/Untitled.md",
-    "Cloud Support/Support Tools",
-    "Cloud Support/Migrations/PHPBB and Xenforo Migrations.md",
-    "Workzone/every tag notes.md",
-    "Workzone/Apache Information Commands.md",
-    "support_dev_notes/6.1.2 Notes.md",
-    "Reference/crontab timing.md",
-    "About/Channels.md",
-    "Untitled.canvas",
-    "Troubleshooting/A System Error has occurred.md",
-    "Server Management/Running vBulletin on a Local Server.md",
-    "Server Management/Server Configuration/Untitled.md",
-    "Reference/Moving Servers.md",
-    "Reference/Permission numbers.md",
-    "Server Management/Block bots via .htaccess.md",
-    "Reference/vBulletin Configuration/Untitled 2.md",
-    "Reference/vBulletin Configuration/Untitled 1.md",
-    "Reference/vBulletin Configuration/Untitled.md",
-    "Reference/vBulletin Configuration/Uploading Large Images.md",
-    "images/sitebuilder_new_page_save.png",
-    "images/sitebuilder_editpage_save.png",
-    "images/sitebuilder_editpage_modules.png",
-    "images/sitebuilder_editpage_layout.png",
-    "images/sitebuilder_editpage_template.png"
+    "Untitled.canvas"
   ]
 }
