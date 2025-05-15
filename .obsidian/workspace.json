@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "support_dev_notes/Onboarding.md",
+                "file": "Reference/Third-party Login/Wordpres.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Onboarding"
+              "title": "Wordpres"
             }
           }
         ],
@@ -133,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,8 +232,24 @@
   },
   "active": "5849e5a9c5dbf1da",
   "lastOpenFiles": [
-    "Tech Support/Cloud Support Tools/2. Basic Actions.md",
+    "Troubleshooting/Prevent PHP Warnings and Errors.md",
+    "support_dev_notes/Release Process.md",
     "support_dev_notes/Onboarding.md",
+    "support_dev_notes/Modernize vBulletin..md",
+    "support_dev_notes/Creating Release Notes..md",
+    "support_dev_notes/Building phpDocs.md",
+    "support_dev_notes/6.1.X Suggestions.md",
+    "support_dev_notes/6.1.2 Notes.md",
+    "Tech Support/Reading PHP Errors.md",
+    "Cloud Support/Support Tools/2. Main Screen.md",
+    "Debugging iPhone or iPad.md",
+    "admin4.png",
+    "ad_final_result.png",
+    "CleanShot 2024-05-29 at 14.47.05.png",
+    "Cloud Support/Support Tools/3. Forum Account and Details.md",
+    "Cloud Support/Support Tools/1. Login.md",
+    "Tech Support/Cloud Support Tools/3. Advanced Tools.md",
+    "Tech Support/Cloud Support Tools/2. Basic Actions.md",
     "Tech Support/Cloud Support Tools/1. Forum Info.md",
     "images/cloud_tools_basic_actions.png",
     "images/cloud_tools_advanced_tools.png",
@@ -252,7 +269,6 @@
     "logseq",
     "Reference/Third-party Login",
     "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/cloud_tools_forum_info 1.png",
-    "Users/wayneluke/Library/Mobile Documents/iCloud~md~obsidian/Documents/vBulletin_Support/images/cloud_tools_forum_info.png",
     "Troubleshooting/A System Error has occurred.md",
     "Tech Support/Cloud Support Tools",
     "Tech Support",
@@ -261,22 +277,7 @@
     "Tutorials/vbevent.php.md",
     "Tutorials/vbcron.php.md",
     "Tutorials/Using Professional Font Awesome Package.md",
-    "Tutorials/Using Custom Fonts via Google Fonts.md",
-    "Tutorials/Google Ads.md",
-    "Tutorials/Export Custom Pages.md",
-    "Tutorials/Create Custom MD5Sums files.md",
-    "Tutorials/Convert DB to UTF8MB4.md",
-    "Tutorials/Add page for latest posts.md",
-    "Tutorials/Ad After Posts.md",
-    "Troubleshooting/Rebuild Video BB Codes.md",
-    "Troubleshooting/Private Messages Hang and Don't Appear.md",
-    "Troubleshooting/Prevent PHP Warnings and Errors.md",
-    "Troubleshooting/PHP Memory Limit.md",
-    "Troubleshooting/MySQL Gone Away.md",
-    "Troubleshooting/Email issues with upgrades.md",
     "Release Notes",
-    "admin4.png",
-    "admin5.png",
     "Untitled.canvas"
   ]
 }
