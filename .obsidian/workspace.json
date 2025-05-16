@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Modernize vBulletin."
             }
-          },
-          {
-            "id": "5849e5a9c5dbf1da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/Third-party Login/Wordpres.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wordpres"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,8 +205,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5849e5a9c5dbf1da",
+  "active": "c0bc06554b9e0533",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Developer/Untitled.md",
+    "Clippings/11 macOS Apps So Good, You Will Wonder How They Are Free.md",
+    "Clippings",
+    "Reference/Third-party Login/Wordpres.md",
     "Troubleshooting/Prevent PHP Warnings and Errors.md",
     "support_dev_notes/Release Process.md",
     "support_dev_notes/Onboarding.md",
@@ -257,7 +242,6 @@
     "images/cloud_tools_site_info.png",
     "images/cloud_tools_site_fix.png",
     "images/cloud_tools_forum_info.png",
-    "Reference/Third-party Login/Wordpres.md",
     "Tutorials/Using.../Wordpress Connect.md",
     "Tutorials/Using.../Galleries.md",
     "Tutorials/Using...",
@@ -273,11 +257,6 @@
     "Tech Support/Cloud Support Tools",
     "Tech Support",
     "Reference Map.md",
-    "Links.md",
-    "Tutorials/vbevent.php.md",
-    "Tutorials/vbcron.php.md",
-    "Tutorials/Using Professional Font Awesome Package.md",
-    "Release Notes",
-    "Untitled.canvas"
+    "Links.md"
   ]
 }
