@@ -24,7 +24,7 @@ The new items are the commands for Site Builder. These are: Channels, Style, Pag
 Site Builder is divided into a series of tools. 
 
 - [[Style]]
-- [[Channels]]
+- [[Content Types]]
 - [[Pages]]
 - [[New Page]]
 - [[Edit Page]]
