@@ -10,4 +10,4 @@ Does this solve the issue? If not:
 5. Using tools.php - turn off "Store CSS as Files".
 6. Using tools.php - make sure your forums are turned on.
 
-Are you able to access your site no? If not, please put the site into [Debug Mode](https://www.vbulletin.com/go/vb5debug) and post the new output in a forum topic.
+Are you able to access your site now? If not, please put the site into [Debug Mode](https://www.vbulletin.com/go/vb5debug) and post the new output in a forum topic.
