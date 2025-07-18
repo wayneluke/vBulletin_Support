@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/Volumes/Secondary/Files/vBulletin/obsidian_export",
+  "exportPath": "/Users/koleckai/Downloads",
   "filesToExport": [
     [
       "all"

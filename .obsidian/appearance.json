@@ -4,8 +4,8 @@
   "interfaceFontFamily": "FiraCode Nerd Font Propo",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "textFontFamily": "Hiragino Sans",
-  "cssTheme": "Nightfox",
+  "cssTheme": "Tokyo Night",
   "translucency": true,
   "baseFontSizeAction": true,
-  "theme": "system"
+  "theme": "obsidian"
 }

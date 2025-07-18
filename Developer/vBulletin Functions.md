@@ -1,4 +1,4 @@
-This is a list of legacy functions that can be used within templates in the vBulletin system. They will often simplify verifying different functionality.
+This is a list of legacy functions that can be used within templates in the vBulletin system. They will often simplify verifying different functionalities.
 
 ## can_moderate()
 
