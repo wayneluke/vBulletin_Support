@@ -31,8 +31,8 @@ flowchart LR
  subgraph subGraph2["Database Tier"]
         DB1[("xxxx.vbulletin.net Database")]
         DB2[("yyyy.vbulletin.net Database")]
-        DB3[("yyyy.vbulletin.net Database")]
-        DBN[("yyyy.vbulletin.net Database")]                
+        DB3[("zzzz.vbulletin.net Database")]
+        DBN[("abcd.vbulletin.net Database")]                
         CN[(Configuration Server)]
   end
  subgraph s1["Asset File Storage"]
