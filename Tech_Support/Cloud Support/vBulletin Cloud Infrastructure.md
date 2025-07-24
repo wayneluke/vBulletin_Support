@@ -17,11 +17,10 @@ Here is a simplified diagram of the architecture:
 config:
   layout: dagre
 ---
-flowchart LR
+flowchart TD
  subgraph subGraph0["Client Devices"]
         A1["xxxx.vbulletin.net Request"]
         A2["yyyy.vbulletin.net Request"]
-        A3["zzzz.vbulletin.net Request"]
   end
  subgraph subGraph1["Web Tier"]
         WA["vBulletin.net Virtual Machines"]
@@ -30,16 +29,18 @@ flowchart LR
  subgraph subGraph2["Database Tier"]
         DB1[("xxxx.vbulletin.net Database")]
         DB2[("yyyy.vbulletin.net Database")]
-        DBN[("zzzz.vbulletin.net Database")]
         CN[(Configuration Server)]
   end
- subgraph s1["Site File Storage"]
+ subgraph s1["Asset File Storage"]
         FS["Attachments, Avatars, Smilies, etc…"]
+  end
+ subgraph s3["Outgoing Mail"]
+        SG["SendGrid - SMTP"]
   end
     A1 <--> WA
     A2 <--> WA
-    A3 <--> WA
-    WA <--> CN & DB1 & DB2 & DBN & FS
+    WA --> SG
+    WA <--> CN & DB1 & DB2 & FS
 ```
 
 
