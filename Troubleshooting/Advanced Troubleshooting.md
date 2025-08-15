@@ -1,5 +1,11 @@
 These are the steps that I go through for advanced troubleshooting. Using these steps will often give more information more than debug mode alone.
 
+## Tools Needed
+
+- Modern Text Editor with syntax highlighting. Examples are Visual Studio Code, Codeium, Sublime Text, ZED.
+- PHP Linter to pinpoint errors in files.
+- .htaccess Linter to pinpoint errors in files.
+
 ## Restrict Debug Mode Access.
 
 Debug mode can provide too much information to site visitors so it is best to limit who can see this. Previously I have documented two two ways of implementing this. 
@@ -20,6 +26,7 @@ ini_set('log_errors',1);
 ini_set("error_log", dirname(__DIR__,2) . "/logs/php_error.log");
 ```
 
+You will need to create the `/logs/` directory in the vBulletin root directory.
 ## Enable Route Tracing
 
 You can enable route tracing the PHP error log. This looks like this:
