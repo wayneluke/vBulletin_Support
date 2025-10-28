@@ -29,4 +29,9 @@ Example:
 
 ## Adding CSS to tags
 
+### Class
+
+### ID
+
+### Inline
 

@@ -5,15 +5,14 @@ Once you have selected the topics that you want to work with, select the moderat
 
 ## Actions Available
 
-- - **Move Threads**  : Brings up the move topics interface. This allows you to move a thread to another Forum.
+- **Move Threads**  : Brings up the move topics interface. This allows you to move a thread to another Forum.
 - **Merge Threads**  : Allows the moderator to merge two or more topics into a single topic. Use cautiously. Since posts are ordered by their parent id and creation date, this can result in topics that display out of order.
 - **Delete Threads**  : Brings up the delete topics interface that allows you to choose between soft and hard deletion (depending on permission level). You can also choose to delete the topic as <abbr title="Common Shorthand for Unsolicited Commercial Messages">SPAM</abbr>. When you do this, you can ban the user from your site.  
 - **Undelete Threads**  : Restores soft-deleted topic(s).
 - **Open Threads**  : Opens one or more closed topics.  An open topic can receive replies and/or comments from users that have the proper permissions.
 - **Close Threads**  : Closes on or more open topics.  A closed topic prevents most users from adding replies or comments. Site staff members can still reply.
 - **Approve Threads**  : Publish one or more topics that have been marked as suspect either by another moderator or by vBulletin's  <abbr title="Common Shorthand for Unsolicited Commercial Messages">SPAM</abbr> Management Options.  Unapproved Topics can also be actioned staff member's Message Center
-- **Unapprove Threads**  
-Unapproves one or more topics, sending them back to moderation. Unapproved topics, are not visible to most users.  
+- **Unapprove Threads**  : Unapproves one or more topics, sending them back to moderation. Unapproved topics, are not visible to most users.  
   
 **Stick Topic**  
 Pins the topic to the top of the page. This highlights the topic and removes it from the normal sort order.  
