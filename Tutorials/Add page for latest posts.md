@@ -16,12 +16,11 @@
 
 ## Some Cleanup
 
-The resulting page is 
-- Optional CSS
+- Search Modules don't have the option to hide the header. You can remove it with some custom CSS. 
   - Remove the header. 
-    - Search Modules don't have the option to hide the header. You can remove it with some CSS. Right-click the header on the page and chooose "Inpsect". 
-    - Look at the source code and a few lines above the cursor there should be an id with widget_XXX. In the highlighted example code below, this is widget_160. (insert image)
+    - Right-click the module's header on the page and choose "Inspect". 
+    - Look at the source code and a few lines above the cursor there should be an id with widget_XYZ. In the highlighted example code below, this is widget_160. (insert image)
     - Using this code we can add some CSS to remove the header from the display. 
-        - Add the following code to your css_additional.css template: `#widget_160 .widget-header{ display: none}`
-	- Remove Border
-		- Using the same ID, you can remove the border of the module with this CSS: `#widget_160 {border: 0px;}`
+        - Add the following code to your css_additional.css template: `#widget_XYZ .widget-header{ display: none}`
+- Remove Border
+		- Using the same ID as above, you can remove the border of the module with this CSS: `#widget_XYZ {border: 0px;}`

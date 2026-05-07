@@ -1,4 +1,5 @@
 {
-  "folder": "support_dev_notes",
-  "template": ""
+  "folder": "Worklog",
+  "template": "",
+  "format": "YYYY/MM/DD"
 }
