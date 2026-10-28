@@ -1,8 +1,8 @@
-  
+# Channel Manager
+
 The **Channel Manager**, accessible via Channel Management> Channel Manager, is where you can choose to do a portion of your channel management. This is in addition to the management that you can do through the **Site Builder** function. Unlike the **Site Builder**, the **Channel Manager** gives you an overview of all the Channels in a central location.  
   
 When you enter this section, you will be presented with a screen similar to this:  
-    
   
 **Forum**  
 Each row in the table is a channel in the database. In the first column, **Title**, you will see the name of the forum; clicking the name will allow you to edit the forum’s information.  

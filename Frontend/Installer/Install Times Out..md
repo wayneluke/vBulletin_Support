@@ -1,9 +1,9 @@
-On some servers, the web based installer will time out during the final upgrade steps. We have tried to work around this extensively but sometimes we cannot avoid server limits.
+On certain servers, the web-based installer may time out during the final upgrade steps. Although we have pursued extensive workarounds, server limits can occasionally be unavoidable.
 
-If this happens on your installation then follow these steps:
+If this occurs during your installation, proceed with these steps::
 
-1. Do not refresh the screen. This will simply start the installation over.
-2. In your browser's address bar replace "install.php" with "upgrade.php".
-3. Press Return on your keyboard, not Refresh (F5 or CMD+R).
+1. Avoid refreshing the screen, as this will restart the installation.
+2. In your browser’s address bar, change “install.php” to “upgrade.php.”
+3. Press Return rather than Refresh (F5 or CMD+R).
 
-The upgrade script will take over for these final steps and pick up where you left off. If you time out again, then you can press refresh. However, make sure the Address/URL is upgrade.php and not install.php.
+The upgrade script will manage these final steps and continue from your last point. If the session times out again, you may press refresh. Ensure the Address/URL shows upgrade.php rather than install.php.

@@ -1,3 +1,5 @@
+# Introduction to Channels
+
 **What are channels?**  
   
 Channels are nodes that can contain other nodes. Nodes are any content within vBulletin. They can be discussions, photos, links or channels among other content types.  
@@ -27,9 +29,9 @@ Creating Specialty Forums
 
 ### Article Categories
 
-Articles are useful for long form content. Articles support all the functionality of Forums as well as paging. 
+Articles are useful for long form content. Articles support all the functionality of Forums as well as paging.
 
-## Blogs
+### Blogs
 
 As the site Administrator, you can allow users to create their own blog. The owner of the blog would manage its subscribers. These permissions are handled separately outside of the normal permission change via the Channel Member usergroup placeholder. As the Administrator, you do not need to actively manage these channels. Only the Blog Owner and people they designate as moderaters can create new content in a Blog.
 
@@ -37,7 +39,7 @@ Blog Owners can also transfer ownership to another member if they wish to do so.
 
 Blogs are similar to any other topic. They can include rich text, smilies, emoji, and attachments.
 
-## Groups
+### Groups
 
 Groups are similar to Blogs. The main difference is that all members that have joined can usually create new content. Like Blogs, the Group Owner can manage members who have joined, assign moderators, and manage content. Groups are also less server intensive than forums. So if you will have a lot of channels, consider creating them as groups and assigning owners to individual groups.
 

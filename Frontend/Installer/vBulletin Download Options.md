@@ -1,1 +1,1 @@
-Each download of vBulletin is custom built at the time of request. During this process the files are assigned to your license and customer account. It also allows you some options to customize your download. 
+Each download of vBulletin is built at the time of request. During this process the files are assigned to your license and customer account. It also provides options to customize your download. 

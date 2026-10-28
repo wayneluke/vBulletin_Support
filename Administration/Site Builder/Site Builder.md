@@ -21,17 +21,17 @@ The new items are the commands for Site Builder. These are: Channels, Style, Pag
 
 ## Tools Available in Site Builder
 
-Site Builder is divided into a series of tools. 
+Site Builder is divided into a series of tools.
 
-- [[Style]]
-- [[Content Types]]
-- [[Pages]]
-- [[New Page]]
-- [[Edit Page]]
-- [[Header]]
-- [[Navigation Bar]]
-- [[Footer]]
-- [[Quick Setup]]
+- [[1. Style]]
+- [2. Channels](2.%20Channels.md)
+- [3. Pages](3.%20Pages.md)
+- [4. Header](4.%20Header)
+- [5. Site Info](5.%20Site%20Info.md)
+- [6. Header](6.%20Header.md)
+- [7. Navigation Bar](7.%20Navigation%20Bar.md)
+- [8. Footer](8.%20Footer.md)
+- [9. Quick Setup](9.%20Quick%20Setup.md)
 
   
 tags: #administrator #site_builder #beginner 
